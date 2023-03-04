@@ -8,6 +8,7 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Stack from 'react-bootstrap/Stack';
 
 import NxWelcome from './nx-welcome';
 import Routeplanning from './routeplanning/routeplanning';
@@ -17,20 +18,18 @@ import Favourite from './favourite/favourite';
 export function App() {
   return (
     <>
-      {/* <head>
-        <link href='https://unpkg.com/maplibre-gl@2.4.0/dist/maplibre-gl.css' rel='stylesheet' />
-      </head> */}
-      <Container fluid>
-        <NxWelcome title="HSL Bike Route Planner" />
-        <Routeplanning />
-        <Row>
-          <Col md>
-            <Favourite></Favourite>
-          </Col>
-          <Col md>
-            <Mapcomponent></Mapcomponent>
-          </Col>
-        </Row>
+      <Container fluid={"lg"}>
+          <NxWelcome title="HSL Bike Route Planner" />
+          <Routeplanning />
+          <hr />
+          <Row className='mb-5'>
+            <Col lg={8} className='mb-5'>
+              <Mapcomponent></Mapcomponent>
+            </Col>
+            <Col lg={4}>
+              <Favourite></Favourite>
+            </Col>
+          </Row>
       </Container>
       <div />
     </>

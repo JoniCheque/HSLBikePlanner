@@ -7,6 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import React from 'react';
+import Stack from 'react-bootstrap/Stack';
 
 /* eslint-disable-next-line */
 export interface FavouriteProps {}
@@ -19,34 +20,37 @@ export function Favourite(props: FavouriteProps) {
 
   return (
     <div>
-      <h5>Lisää uusi kohde</h5>
-
       <form method='' onSubmit={handleSubmit}>
-        <Row>
-          <Col md>
-            <InputGroup size='lg' className='mb-3'>
-              <InputGroup.Text id='inputGroup-sizing-sm'>Lähtöpiste</InputGroup.Text>
-              <Form.Control
-                placeholder='Lähtöpiste'
-                aria-label='Small'
-                aria-describedby="inputGroup-sizing-default"
-                name='startingPoint'/>
-            </InputGroup>
-          </Col>
-          <Col md>
-            <InputGroup size='lg' className='mb-3'>
-            <InputGroup.Text id='inputGroup-sizing-sm'>Määränpää</InputGroup.Text>
+        <InputGroup size='lg'>
+          <h5>Lisää uusi kohde</h5>
+          <Row>
             <Form.Control
-              placeholder='Määränpää'
+              className='mb-2'
+              placeholder='Nimi'
               aria-label='Small'
               aria-describedby="inputGroup-sizing-default"
               name='startingPoint'/>
-              <Button variant="outline-secondary" id="button-addon2" type='submit'>
-                Hae reitti!
-              </Button>
-            </InputGroup>
-          </Col>
-        </Row>
+            <Form.Control
+              className='mb-2'
+              placeholder='Kuvaus'
+              aria-label='Small'
+              aria-describedby="inputGroup-sizing-default"
+              name='startingPoint'/>
+            <Form.Control
+              className='mb-2'
+              placeholder='Longitude'
+              aria-label='Small'
+              aria-describedby="inputGroup-sizing-default"
+              name='startingPoint'/>
+            <Form.Control
+              className='mb-2'
+              placeholder='Latidute'
+              aria-label='Small'
+              aria-describedby="inputGroup-sizing-default"
+              name='startingPoint'/>
+            <Button variant="outline-success">Lisää</Button>{' '}
+          </Row>
+        </InputGroup>
       </form>
     </div>
   );

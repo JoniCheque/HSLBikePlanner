@@ -10,7 +10,7 @@ export interface MapcomponentProps {}
 export function Mapcomponent(props: MapcomponentProps) {
   return (
     <div className={styles['container']}>
-      <h1>Welcome to Map!</h1>
+      <h5>Welcome to Map!</h5>
       <div className="App">
         <Map mapLib={maplibregl} 
           initialViewState={{

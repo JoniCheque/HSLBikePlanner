@@ -20,7 +20,7 @@ export function Routeplanning(props: RouteplanningProps) {
       <h5>Reittisuunnittelu</h5>
       <form method='' onSubmit={handleSubmit}>
         <Row>
-          <Col md>
+          <Col lg>
             <InputGroup size='lg' className='mb-3'>
               <InputGroup.Text id='inputGroup-sizing-sm'>Lähtöpiste</InputGroup.Text>
               <Form.Control
@@ -30,7 +30,7 @@ export function Routeplanning(props: RouteplanningProps) {
                 name='startingPoint'/>
             </InputGroup>
           </Col>
-          <Col md>
+          <Col lg>
             <InputGroup size='lg' className='mb-3'>
             <InputGroup.Text id='inputGroup-sizing-sm'>Määränpää</InputGroup.Text>
             <Form.Control
