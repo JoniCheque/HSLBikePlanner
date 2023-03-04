@@ -1,7 +1,8 @@
-/*
- * Replace this with your own classes
- *
- * e.g.
- * .container {
- * }
-*/
+fieldset {
+    border-radius: 15px;
+    border: solid;
+    border-width: 1px;
+}
+
+legend {
+}
