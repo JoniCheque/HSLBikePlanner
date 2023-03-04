@@ -1,10 +1,10 @@
 import { render } from '@testing-library/react';
 
-import Map from './map';
+import Mapcomponent from './mapcomponent';
 
-describe('Map', () => {
+describe('Mapcomponent', () => {
   it('should render successfully', () => {
-    const { baseElement } = render(<Map />);
+    const { baseElement } = render(<Mapcomponent />);
     expect(baseElement).toBeTruthy();
   });
 });
