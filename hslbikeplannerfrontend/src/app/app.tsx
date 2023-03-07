@@ -21,7 +21,6 @@ export function App() {
       <Container fluid={"lg"}>
           <NxWelcome title="HSL Bike Route Planner" />
           <Routeplanning />
-          <hr />
           <Row className='mb-5'>
             <Col lg={8} className='mb-5'>
               <Mapcomponent></Mapcomponent>
