@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Repository.Contexts;
 
@@ -10,9 +11,11 @@ using Repository.Contexts;
 namespace Repository.Migrations
 {
     [DbContext(typeof(BicycleDataContext))]
-    partial class BicycleDataContextModelSnapshot : ModelSnapshot
+    [Migration("20230307221630_AddStation")]
+    partial class AddStation
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "7.0.3");
@@ -53,7 +56,7 @@ namespace Repository.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("BicycleDataEntries", (string)null);
+                    b.ToTable("BicycleDataEntries");
                 });
 
             modelBuilder.Entity("Repository.Entities.Station", b =>
@@ -73,7 +76,7 @@ namespace Repository.Migrations
 
                     b.HasKey("StationId");
 
-                    b.ToTable("Stations", (string)null);
+                    b.ToTable("Stations");
                 });
 #pragma warning restore 612, 618
         }

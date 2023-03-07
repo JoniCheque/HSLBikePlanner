@@ -59,40 +59,40 @@ namespace BicycleService
                 .ToList();
         }
 
-        public IEnumerable<BicycleDataEntry> GetLongestDistancesByStationId(string stationId, int amountOfEntries)
-        {
-            return _context.BicycleDataEntries
-                .Where(entry => entry.DepartureStationId == stationId)
-                .OrderByDescending(entry => entry.Distance)
-                .Take(amountOfEntries)
-                .ToList();
-        }
+        //public IEnumerable<BicycleDataEntry> GetLongestDistancesByStationId(string stationId, int amountOfEntries)
+        //{
+        //    return _context.BicycleDataEntries
+        //        .Where(entry => entry.DepartureStationId == stationId)
+        //        .OrderByDescending(entry => entry.Distance)
+        //        .Take(amountOfEntries)
+        //        .ToList();
+        //}
 
-        public IEnumerable<BicycleDataEntry> GetShortestDistancesByStationId(string stationId, int amountOfEntries)
-        {
-            return _context.BicycleDataEntries
-                .Where(entry => entry.DepartureStationId == stationId)
-                .OrderBy(entry => entry.Distance)
-                .Take(amountOfEntries)
-                .ToList();
-        }
+        //public IEnumerable<BicycleDataEntry> GetShortestDistancesByStationId(string stationId, int amountOfEntries)
+        //{
+        //    return _context.BicycleDataEntries
+        //        .Where(entry => entry.DepartureStationId == stationId)
+        //        .OrderBy(entry => entry.Distance)
+        //        .Take(amountOfEntries)
+        //        .ToList();
+        //}
 
-        public IEnumerable<BicycleDataEntry> GetLongestDurationsByStationId(string stationId, int amountOfEntries)
-        {
-            return _context.BicycleDataEntries
-                .Where(entry => entry.DepartureStationId == stationId)
-                .OrderByDescending(entry => entry.Duration)
-                .Take(amountOfEntries)
-                .ToList();
-        }
+        //public IEnumerable<BicycleDataEntry> GetLongestDurationsByStationId(string stationId, int amountOfEntries)
+        //{
+        //    return _context.BicycleDataEntries
+        //        .Where(entry => entry.DepartureStationId == stationId)
+        //        .OrderByDescending(entry => entry.Duration)
+        //        .Take(amountOfEntries)
+        //        .ToList();
+        //}
 
-        public IEnumerable<BicycleDataEntry> GetShortestDurationsByStationId(string stationId, int amountOfEntries)
-        {
-            return _context.BicycleDataEntries
-                .Where(entry => entry.DepartureStationId == stationId)
-                .OrderBy(entry => entry.Duration)
-                .Take(amountOfEntries)
-                .ToList();
-        }
+        //public IEnumerable<BicycleDataEntry> GetShortestDurationsByStationId(string stationId, int amountOfEntries)
+        //{
+        //    return _context.BicycleDataEntries
+        //        .Where(entry => entry.DepartureStationId == stationId)
+        //        .OrderBy(entry => entry.Duration)
+        //        .Take(amountOfEntries)
+        //        .ToList();
+        //}
     }
 }

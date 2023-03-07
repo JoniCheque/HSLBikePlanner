@@ -6,6 +6,7 @@ namespace Repository.Contexts
     public class BicycleDataContext : DbContext
     {
         public DbSet<BicycleDataEntry> BicycleDataEntries { get; set; }
+        public DbSet<Station> Stations { get; set; }
 
         public string DbPath { get; }
 
