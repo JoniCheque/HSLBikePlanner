@@ -40,6 +40,8 @@ Thumbs.db
 
 
 # C#
-**/bin
+**/bin/
+**/bin/*
 **/*.csv
-**/obj
+**/obj/
+**/obj/*
