@@ -9,7 +9,7 @@
         public string DepartureStationName { get; set; }
         public string ReturnStationId { get; set; }
         public string ReturnStationName { get; set; }
-        public decimal Distance { get; set; }
+        public int Distance { get; set; }
         public uint Duration { get; set; }
     }
 }
