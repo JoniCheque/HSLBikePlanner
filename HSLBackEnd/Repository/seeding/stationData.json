@@ -1,0 +1,3512 @@
+[
+  {
+    "name": "Honkasuo",
+    "stationId": "08738d82-3e32-4ce0-a80d-fb6f5d1d558e",
+    "lat": 60.258764,
+    "lon": 24.84306
+  },
+  {
+    "name": "Leinelän Puistotie",
+    "stationId": "e195471f-e2e3-4fad-9ec6-989fdef292b1",
+    "lat": 60.322202,
+    "lon": 25.041741
+  },
+  {
+    "name": "Maitikka-aukio",
+    "stationId": "4e964d6c-ca62-44e8-9ec0-c3d6864fe93f",
+    "lat": 60.305651,
+    "lon": 25.023289
+  },
+  {
+    "name": "Meripihkatori",
+    "stationId": "5bfba048-27bb-430a-be6f-45d2f4586587",
+    "lat": 60.26248,
+    "lon": 24.847996
+  },
+  {
+    "name": "Kuohukuja",
+    "stationId": "9ef1bb0a-c35a-45db-8cfa-55e7dc0c2c1c",
+    "lat": 60.269919,
+    "lon": 24.846262
+  },
+  {
+    "name": "Hiekkaharjun liikuntapuisto",
+    "stationId": "31463dec-52b0-4304-ae27-4aabe980af69",
+    "lat": 60.300919,
+    "lon": 25.054844
+  },
+  {
+    "name": "Energia Areena",
+    "stationId": "7e7989c2-d952-479f-8b58-613a824ad261",
+    "lat": 60.260504,
+    "lon": 24.839131
+  },
+  {
+    "name": "Läntinen Valkoisenlähteentie",
+    "stationId": "f95d3a5f-9951-4697-bf0e-2328a5646f6f",
+    "lat": 60.301857,
+    "lon": 25.023022
+  },
+  {
+    "name": "Peijaksentie",
+    "stationId": "cc264aed-c5c9-4556-8239-0e0db8d5fe6c",
+    "lat": 60.31568,
+    "lon": 25.099649
+  },
+  {
+    "name": "Kirjurinkuja",
+    "stationId": "*711",
+    "lat": 60.216694788561654,
+    "lon": 24.826435064684034
+  },
+  {
+    "name": "Hanabölentie",
+    "stationId": "4671581a-1bc1-4d29-a752-30e7b33c66f2",
+    "lat": 60.322365,
+    "lon": 25.082665
+  },
+  {
+    "name": "Konala test station",
+    "stationId": "89cbaf4c-85b9-435b-acfa-c1708c4156f5",
+    "lat": 60.248309,
+    "lon": 24.842282
+  },
+  {
+    "name": "Tapaninkyläntie",
+    "stationId": "464650a8-8e47-4d6c-a9fa-b1719474c9c0",
+    "lat": 60.265855,
+    "lon": 24.973255
+  },
+  {
+    "name": "Talkootori",
+    "stationId": "8f862e86-51ae-4138-8df4-c80862a109bf",
+    "lat": 60.30306,
+    "lon": 25.04623
+  },
+  {
+    "name": "Gallen-Kallelan tie",
+    "stationId": "701",
+    "lat": 60.206142,
+    "lon": 24.840699
+  },
+  {
+    "name": "Elfvik",
+    "stationId": "703",
+    "lat": 60.203852,
+    "lon": 24.8231
+  },
+  {
+    "name": "Martinlaakson asema",
+    "stationId": "abfefc85-2cc6-4eaa-9997-d3462052a69e",
+    "lat": 60.277484,
+    "lon": 24.853032
+  },
+  {
+    "name": "Laajalahden keskus",
+    "stationId": "705",
+    "lat": 60.203892,
+    "lon": 24.80493
+  },
+  {
+    "name": "Majurinkulma",
+    "stationId": "707",
+    "lat": 60.210735,
+    "lon": 24.824954
+  },
+  {
+    "name": "Yhdyskunnankuja",
+    "stationId": "709",
+    "lat": 60.212508,
+    "lon": 24.819549
+  },
+  {
+    "name": "Hiekkaharjun asema",
+    "stationId": "c478d948-80f8-46b2-a12a-14350c46fb61",
+    "lat": 60.304728,
+    "lon": 25.049303
+  },
+  {
+    "name": "Oljenkorsi",
+    "stationId": "acebf619-32a8-461c-a84d-2b28a4efe0f0",
+    "lat": 60.298773,
+    "lon": 25.0626
+  },
+  {
+    "name": "Väinö Tannerin tie",
+    "stationId": "bbe8b501-52d7-4f2a-8b05-d2821acb089b",
+    "lat": 60.289604,
+    "lon": 24.95928
+  },
+  {
+    "name": "Kössi Koskisen aukio",
+    "stationId": "710",
+    "lat": 60.215112,
+    "lon": 24.826953
+  },
+  {
+    "name": "Upseerinkatu",
+    "stationId": "713",
+    "lat": 60.216067,
+    "lon": 24.819396
+  },
+  {
+    "name": "Kydönaukio",
+    "stationId": "3003997a-626b-478f-a086-356d941ce56f",
+    "lat": 60.320133,
+    "lon": 25.063381
+  },
+  {
+    "name": "Komentajankatu",
+    "stationId": "715",
+    "lat": 60.216222,
+    "lon": 24.821932
+  },
+  {
+    "name": "Säteri",
+    "stationId": "719",
+    "lat": 60.213443,
+    "lon": 24.811572
+  },
+  {
+    "name": "Tikkurilantie",
+    "stationId": "7fbd1f6a-6c6d-4286-a341-752caafb9c08",
+    "lat": 60.289209,
+    "lon": 25.030103
+  },
+  {
+    "name": "Tarhurinaukio",
+    "stationId": "b3cd7978-6b97-44b4-acab-746d93847bb4",
+    "lat": 60.312475,
+    "lon": 25.044498
+  },
+  {
+    "name": "Kirjastopuisto",
+    "stationId": "94e65239-e9a8-46d6-ad1a-264eb0a7a066",
+    "lat": 60.29472,
+    "lon": 25.041859
+  },
+  {
+    "name": "Säterinrinne",
+    "stationId": "721",
+    "lat": 60.214193,
+    "lon": 24.805613
+  },
+  {
+    "name": "Nokkala",
+    "stationId": "601",
+    "lat": 60.147974,
+    "lon": 24.754344
+  },
+  {
+    "name": "Säterinniitty",
+    "stationId": "723",
+    "lat": 60.214666,
+    "lon": 24.800486
+  },
+  {
+    "name": "Matinlahdenranta",
+    "stationId": "603",
+    "lat": 60.151041,
+    "lon": 24.754196
+  },
+  {
+    "name": "Rummunlyöjänkatu",
+    "stationId": "725",
+    "lat": 60.217261,
+    "lon": 24.806279
+  },
+  {
+    "name": "Ratsutori",
+    "stationId": "727",
+    "lat": 60.217311,
+    "lon": 24.812419
+  },
+  {
+    "name": "Nuottaniementie",
+    "stationId": "607",
+    "lat": 60.14754,
+    "lon": 24.741736
+  },
+  {
+    "name": "Leppävaaranaukio",
+    "stationId": "729",
+    "lat": 60.21881,
+    "lon": 24.813945
+  },
+  {
+    "name": "Sepetlahdentie",
+    "stationId": "609",
+    "lat": 60.152343,
+    "lon": 24.741234
+  },
+  {
+    "name": "Männistönpolku",
+    "stationId": "baf97245-35e9-4ad4-b706-019d1c9efaa7",
+    "lat": 60.293216,
+    "lon": 25.042426
+  },
+  {
+    "name": "Leppävaarankäytävä",
+    "stationId": "731",
+    "lat": 60.220254,
+    "lon": 24.813437
+  },
+  {
+    "name": "Matinkartanontie",
+    "stationId": "611",
+    "lat": 60.156258,
+    "lon": 24.752489
+  },
+  {
+    "name": "Läkkitori",
+    "stationId": "733",
+    "lat": 60.221019,
+    "lon": 24.813109
+  },
+  {
+    "name": "Matinkyläntie",
+    "stationId": "613",
+    "lat": 60.155689,
+    "lon": 24.744978
+  },
+  {
+    "name": "Mestarinkatu",
+    "stationId": "735",
+    "lat": 60.221938,
+    "lon": 24.817939
+  },
+  {
+    "name": "Tiistiläntie",
+    "stationId": "615",
+    "lat": 60.156755,
+    "lon": 24.737664
+  },
+  {
+    "name": "Muurarinkuja",
+    "stationId": "737",
+    "lat": 60.224747,
+    "lon": 24.812456
+  },
+  {
+    "name": "Tiistinkallio",
+    "stationId": "617",
+    "lat": 60.153737,
+    "lon": 24.729112
+  },
+  {
+    "name": "Postipuun koulu",
+    "stationId": "739",
+    "lat": 60.223827,
+    "lon": 24.826396
+  },
+  {
+    "name": "Etuniementie",
+    "stationId": "619",
+    "lat": 60.160645,
+    "lon": 24.724835
+  },
+  {
+    "name": "Gransinmäki",
+    "stationId": "741",
+    "lat": 60.222154,
+    "lon": 24.804898
+  },
+  {
+    "name": "Hauenkalliontie",
+    "stationId": "621",
+    "lat": 60.161138,
+    "lon": 24.756272
+  },
+  {
+    "name": "Hanasaari",
+    "stationId": "501",
+    "lat": 60.16582,
+    "lon": 24.840319
+  },
+  {
+    "name": "Leinikkitie",
+    "stationId": "fc859051-ff78-4377-a136-cd884c326abf",
+    "lat": 60.310534,
+    "lon": 25.03073
+  },
+  {
+    "name": "Nelikkotie",
+    "stationId": "623",
+    "lat": 60.161588,
+    "lon": 24.74663
+  },
+  {
+    "name": "Keilalahti",
+    "stationId": "503",
+    "lat": 60.171524,
+    "lon": 24.827467
+  },
+  {
+    "name": "Leppävaaran urheilupuisto",
+    "stationId": "745",
+    "lat": 60.224943,
+    "lon": 24.800971
+  },
+  {
+    "name": "Suomenlahdentie",
+    "stationId": "625",
+    "lat": 60.160015,
+    "lon": 24.741294
+  },
+  {
+    "name": "Westendinasema",
+    "stationId": "505",
+    "lat": 60.168266,
+    "lon": 24.805758
+  },
+  {
+    "name": "Leppävaaran uimahalli",
+    "stationId": "747",
+    "lat": 60.226379,
+    "lon": 24.804735
+  },
+  {
+    "name": "Piispansilta",
+    "stationId": "627",
+    "lat": 60.162403,
+    "lon": 24.738416
+  },
+  {
+    "name": "Golfpolku",
+    "stationId": "507",
+    "lat": 60.168143,
+    "lon": 24.796136
+  },
+  {
+    "name": "Vallikatu",
+    "stationId": "749",
+    "lat": 60.228463,
+    "lon": 24.813871
+  },
+  {
+    "name": "Piispanportti",
+    "stationId": "629",
+    "lat": 60.165603,
+    "lon": 24.732688
+  },
+  {
+    "name": "Petikontie",
+    "stationId": "e4967769-faca-47c5-b6e7-f19e849d6790",
+    "lat": 60.279606,
+    "lon": 24.815069
+  },
+  {
+    "name": "Kielotie",
+    "stationId": "31078bfd-07a9-4cc0-aa19-ca64febf2505",
+    "lat": 60.289307,
+    "lon": 25.035904
+  },
+  {
+    "name": "Revontulentie",
+    "stationId": "509",
+    "lat": 60.171551,
+    "lon": 24.802938
+  },
+  {
+    "name": "Vallipolku",
+    "stationId": "751",
+    "lat": 60.227827,
+    "lon": 24.819614
+  },
+  {
+    "name": "Friisilänaukio",
+    "stationId": "631",
+    "lat": 60.162842,
+    "lon": 24.721367
+  },
+  {
+    "name": "Sateentie",
+    "stationId": "511",
+    "lat": 60.173424,
+    "lon": 24.810688
+  },
+  {
+    "name": "Linnuntie",
+    "stationId": "753",
+    "lat": 60.234401,
+    "lon": 24.813954
+  },
+  {
+    "name": "Avaruuskatu",
+    "stationId": "633",
+    "lat": 60.168971,
+    "lon": 24.724908
+  },
+  {
+    "name": "Hakalehto",
+    "stationId": "513",
+    "lat": 60.173567,
+    "lon": 24.79139
+  },
+  {
+    "name": "Kutsuntatie",
+    "stationId": "755",
+    "lat": 60.230453,
+    "lon": 24.824561
+  },
+  {
+    "name": "Kuunkatu",
+    "stationId": "635",
+    "lat": 60.172673,
+    "lon": 24.726025
+  },
+  {
+    "name": "Aapraminkaari",
+    "stationId": "8f2308ff-a342-458e-8f87-3d710f88ee83",
+    "lat": 60.257898,
+    "lon": 24.867183
+  },
+  {
+    "name": "Oravannahkatori",
+    "stationId": "515",
+    "lat": 60.175769,
+    "lon": 24.792559
+  },
+  {
+    "name": "Painiitty",
+    "stationId": "757",
+    "lat": 60.235089,
+    "lon": 24.831397
+  },
+  {
+    "name": "Ruomelantie",
+    "stationId": "637",
+    "lat": 60.174524,
+    "lon": 24.729314
+  },
+  {
+    "name": "Länsituuli",
+    "stationId": "517",
+    "lat": 60.175358,
+    "lon": 24.802049
+  },
+  {
+    "name": "Tuulimäki",
+    "stationId": "518",
+    "lat": 60.174144,
+    "lon": 24.806051
+  },
+  {
+    "name": "Itäportti",
+    "stationId": "639",
+    "lat": 60.174914,
+    "lon": 24.738122
+  },
+  {
+    "name": "Tapionaukio",
+    "stationId": "519",
+    "lat": 60.176168,
+    "lon": 24.805825
+  },
+  {
+    "name": "Rälssitie",
+    "stationId": "b9850ba9-1f07-4f36-81af-c385d5c36b7f",
+    "lat": 60.293995,
+    "lon": 24.972137
+  },
+  {
+    "name": "Avia-aukio",
+    "stationId": "c7140907-75fd-4604-90df-3e69e8b3870d",
+    "lat": 60.30255,
+    "lon": 24.954782
+  },
+  {
+    "name": "Martinlaaksontie",
+    "stationId": "dabc6c37-9d3c-4305-a23d-df0a6e06bf75",
+    "lat": 60.277825,
+    "lon": 24.867403
+  },
+  {
+    "name": "Kielotie",
+    "stationId": "b170b475-e0d0-407c-afb8-f9642c72d4f5",
+    "lat": 60.286306,
+    "lon": 25.030498
+  },
+  {
+    "name": "Mäkkylän asema",
+    "stationId": "761",
+    "lat": 60.220467,
+    "lon": 24.83939
+  },
+  {
+    "name": "Komeetankatu",
+    "stationId": "641",
+    "lat": 60.167216,
+    "lon": 24.735969
+  },
+  {
+    "name": "Kuusisaari",
+    "stationId": "400",
+    "lat": 60.18450834,
+    "lon": 24.8567966
+  },
+  {
+    "name": "Kulttuuriaukio",
+    "stationId": "521",
+    "lat": 60.177588,
+    "lon": 24.803942
+  },
+  {
+    "name": "Kalkkipellonmäki",
+    "stationId": "763",
+    "lat": 60.220551,
+    "lon": 24.833536
+  },
+  {
+    "name": "Koivusaari (M)",
+    "stationId": "401",
+    "lat": 60.16338631,
+    "lon": 24.85516427
+  },
+  {
+    "name": "Auringonkatu",
+    "stationId": "643",
+    "lat": 60.171548,
+    "lon": 24.731472
+  },
+  {
+    "name": "Tikkurilan urheilupuisto",
+    "stationId": "f4866528-f178-4c62-97f9-56a653e021ec",
+    "lat": 60.29961,
+    "lon": 25.028427
+  },
+  {
+    "name": "Bermudankuja",
+    "stationId": "402",
+    "lat": 60.15490426,
+    "lon": 24.91014211
+  },
+  {
+    "name": "Ahertajantie",
+    "stationId": "523",
+    "lat": 60.17875,
+    "lon": 24.797984
+  },
+  {
+    "name": "Verkkosaari",
+    "stationId": "403",
+    "lat": 60.18955618,
+    "lon": 24.97754808
+  },
+  {
+    "name": "Piispankallio",
+    "stationId": "645",
+    "lat": 60.168441,
+    "lon": 24.743532
+  },
+  {
+    "name": "Sompasaari",
+    "stationId": "404",
+    "lat": 60.18293082,
+    "lon": 24.97607582
+  },
+  {
+    "name": "Mäntyviita",
+    "stationId": "525",
+    "lat": 60.178702,
+    "lon": 24.810974
+  },
+  {
+    "name": "Ruutikatu",
+    "stationId": "767",
+    "lat": 60.223377,
+    "lon": 24.820635
+  },
+  {
+    "name": "Jollas",
+    "stationId": "405",
+    "lat": 60.16440749,
+    "lon": 25.06166787
+  },
+  {
+    "name": "Lystimäki",
+    "stationId": "647",
+    "lat": 60.172814,
+    "lon": 24.745666
+  },
+  {
+    "name": "Kurkijoentie",
+    "stationId": "768",
+    "lat": 60.204669,
+    "lon": 24.809499
+  },
+  {
+    "name": "Otsolahti",
+    "stationId": "527",
+    "lat": 60.178655,
+    "lon": 24.817423
+  },
+  {
+    "name": "Lystimäensilta",
+    "stationId": "649",
+    "lat": 60.17471,
+    "lon": 24.752442
+  },
+  {
+    "name": "Keilaniemi (M)",
+    "stationId": "529",
+    "lat": 60.175233,
+    "lon": 24.82895
+  },
+  {
+    "name": "Vehkalan asema",
+    "stationId": "8189d2dd-8dda-4580-b24f-7af3c18f0531",
+    "lat": 60.294825,
+    "lon": 24.844224
+  },
+  {
+    "name": "Vantaan aikuisopisto",
+    "stationId": "457580d2-51d5-4e63-b728-295404d1147b",
+    "lat": 60.296321,
+    "lon": 25.039783
+  },
+  {
+    "name": "Suurpellonaukio",
+    "stationId": "651",
+    "lat": 60.184596,
+    "lon": 24.744131
+  },
+  {
+    "name": "Keilaranta",
+    "stationId": "531",
+    "lat": 60.178762,
+    "lon": 24.835132
+  },
+  {
+    "name": "Betonimies",
+    "stationId": "532",
+    "lat": 60.180027,
+    "lon": 24.831804
+  },
+  {
+    "name": "Lukutori",
+    "stationId": "653",
+    "lat": 60.187086,
+    "lon": 24.742936
+  },
+  {
+    "name": "Virnatie",
+    "stationId": "18c7e07f-03ea-47d8-9851-23c078cc1711",
+    "lat": 60.287829,
+    "lon": 25.033286
+  },
+  {
+    "name": "Tekniikantie",
+    "stationId": "533",
+    "lat": 60.180806,
+    "lon": 24.824747
+  },
+  {
+    "name": "Tikkuraitti",
+    "stationId": "acf2548a-9321-4fcc-b23b-a2f4b241b5a4",
+    "lat": 60.293413,
+    "lon": 25.036411
+  },
+  {
+    "name": "Innopoli",
+    "stationId": "537",
+    "lat": 60.185096,
+    "lon": 24.81422
+  },
+  {
+    "name": "Hagalundinpuisto",
+    "stationId": "538",
+    "lat": 60.18363,
+    "lon": 24.817403
+  },
+  {
+    "name": "Jokiniemenkatu",
+    "stationId": "6fe85667-5fa3-44e1-b0ae-61cebfbe4bd0",
+    "lat": 60.298238,
+    "lon": 25.050165
+  },
+  {
+    "name": "Aalto-yliopisto (M), Tietotie",
+    "stationId": "539",
+    "lat": 60.184987,
+    "lon": 24.820099
+  },
+  {
+    "name": "Tahkotie",
+    "stationId": "e2da7c2f-4c76-42c8-99f8-b24049d790b4",
+    "lat": 60.30353,
+    "lon": 24.912385
+  },
+  {
+    "name": "Vaisala",
+    "stationId": "1eb00678-face-401b-a8c1-7a94fdea51d4",
+    "lat": 60.281898,
+    "lon": 24.875314
+  },
+  {
+    "name": "Malminiitynpuisto",
+    "stationId": "6fdb3726-0da7-47cb-bd61-bbbc7871e536",
+    "lat": 60.315568,
+    "lon": 25.040693
+  },
+  {
+    "name": "Aalto-yliopisto (M), Korkeakouluaukio",
+    "stationId": "541",
+    "lat": 60.184312,
+    "lon": 24.826671
+  },
+  {
+    "name": "Aurinkotuulenkatu",
+    "stationId": "301",
+    "lat": 60.2027734,
+    "lon": 25.15934635
+  },
+  {
+    "name": "Otaranta",
+    "stationId": "543",
+    "lat": 60.18483,
+    "lon": 24.837133
+  },
+  {
+    "name": "Sumukuja",
+    "stationId": "302",
+    "lat": 60.20544673,
+    "lon": 25.15840938
+  },
+  {
+    "name": "Leikosaarentie",
+    "stationId": "303",
+    "lat": 60.2046813,
+    "lon": 25.15154626
+  },
+  {
+    "name": "Sähkömies",
+    "stationId": "545",
+    "lat": 60.188499,
+    "lon": 24.829985
+  },
+  {
+    "name": "Aurinkolahdenaukio",
+    "stationId": "304",
+    "lat": 60.20113608,
+    "lon": 25.15011353
+  },
+  {
+    "name": "Kalkkihiekantie",
+    "stationId": "305",
+    "lat": 60.2021242,
+    "lon": 25.14304029
+  },
+  {
+    "name": "Jämeräntaival",
+    "stationId": "547",
+    "lat": 60.188118,
+    "lon": 24.835033
+  },
+  {
+    "name": "Kauppakeskus Columbus",
+    "stationId": "306",
+    "lat": 60.2063719,
+    "lon": 25.14550436
+  },
+  {
+    "name": "Ulappasilta",
+    "stationId": "307",
+    "lat": 60.20661604,
+    "lon": 25.14104587
+  },
+  {
+    "name": "Maarinranta",
+    "stationId": "549",
+    "lat": 60.187484,
+    "lon": 24.810717
+  },
+  {
+    "name": "Mosaiikkitori",
+    "stationId": "308",
+    "lat": 60.20797536,
+    "lon": 25.14385259
+  },
+  {
+    "name": "Kaivonkatsojanpuisto",
+    "stationId": "309",
+    "lat": 60.20440477,
+    "lon": 25.13599933
+  },
+  {
+    "name": "Hagelstamintie",
+    "stationId": "0d685ae6-7322-49e7-a027-cdf907414c43",
+    "lat": 60.284701,
+    "lon": 24.959207
+  },
+  {
+    "name": "Tietäjä",
+    "stationId": "551",
+    "lat": 60.189143,
+    "lon": 24.807083
+  },
+  {
+    "name": "Halkaisijantie",
+    "stationId": "310",
+    "lat": 60.20238693,
+    "lon": 25.12790982
+  },
+  {
+    "name": "Ramsinniementie",
+    "stationId": "311",
+    "lat": 60.19956365,
+    "lon": 25.11990608
+  },
+  {
+    "name": "Metsänneidonpolku",
+    "stationId": "553",
+    "lat": 60.186731,
+    "lon": 24.806152
+  },
+  {
+    "name": "Tammistonkatu",
+    "stationId": "74bb187d-2f8b-45fc-b5fc-54efc94da9e6",
+    "lat": 60.269092,
+    "lon": 24.966753
+  },
+  {
+    "name": "Meri-Rastilan tori",
+    "stationId": "312",
+    "lat": 60.20415423,
+    "lon": 25.11942241
+  },
+  {
+    "name": "Rastila (M)",
+    "stationId": "313",
+    "lat": 60.20553547,
+    "lon": 25.12014086
+  },
+  {
+    "name": "Kalevalantie",
+    "stationId": "555",
+    "lat": 60.184765,
+    "lon": 24.804022
+  },
+  {
+    "name": "Lokitie",
+    "stationId": "314",
+    "lat": 60.20955807,
+    "lon": 25.1365036
+  },
+  {
+    "name": "Vuosaaren liikuntapuisto",
+    "stationId": "315",
+    "lat": 60.21229761,
+    "lon": 25.15346457
+  },
+  {
+    "name": "Louhentori",
+    "stationId": "557",
+    "lat": 60.18715,
+    "lon": 24.796959
+  },
+  {
+    "name": "Punakiventie",
+    "stationId": "316",
+    "lat": 60.21400149,
+    "lon": 25.14675006
+  },
+  {
+    "name": "Haapasaarentie",
+    "stationId": "317",
+    "lat": 60.21877663,
+    "lon": 25.14678718
+  },
+  {
+    "name": "Pohjankulma",
+    "stationId": "559",
+    "lat": 60.18288,
+    "lon": 24.794014
+  },
+  {
+    "name": "Vuosaaren puistopolku",
+    "stationId": "318",
+    "lat": 60.2213209,
+    "lon": 25.14109536
+  },
+  {
+    "name": "Purjetie",
+    "stationId": "319",
+    "lat": 60.21964832,
+    "lon": 25.13382869
+  },
+  {
+    "name": "Koivu-Mankkaa",
+    "stationId": "561",
+    "lat": 60.182976,
+    "lon": 24.78576
+  },
+  {
+    "name": "Vantaankosken asema",
+    "stationId": "b0e83047-fc92-46f1-acbd-727a9b08a6d4",
+    "lat": 60.285229,
+    "lon": 24.849112
+  },
+  {
+    "name": "Koukkusaarentie",
+    "stationId": "320",
+    "lat": 60.21398072,
+    "lon": 25.13423251
+  },
+  {
+    "name": "Länsiterminaali",
+    "stationId": "200",
+    "lat": 60.150395628620245,
+    "lon": 24.915862667368163
+  },
+  {
+    "name": "Vartioharjuntie",
+    "stationId": "321",
+    "lat": 60.22088947,
+    "lon": 25.11091442
+  },
+  {
+    "name": "Mankkaanlaaksontie",
+    "stationId": "563",
+    "lat": 60.188706,
+    "lon": 24.780478
+  },
+  {
+    "name": "Länsisatamankuja",
+    "stationId": "201",
+    "lat": 60.15693191359567,
+    "lon": 24.912200440174857
+  },
+  {
+    "name": "Rukatunturintie",
+    "stationId": "322",
+    "lat": 60.23128135,
+    "lon": 25.12759698
+  },
+  {
+    "name": "Merihaka",
+    "stationId": "202",
+    "lat": 60.181104,
+    "lon": 24.962129
+  },
+  {
+    "name": "Sallatunturintie",
+    "stationId": "323",
+    "lat": 60.23674091,
+    "lon": 25.11830002
+  },
+  {
+    "name": "Mankkaanaukio",
+    "stationId": "565",
+    "lat": 60.194599,
+    "lon": 24.769021
+  },
+  {
+    "name": "Opastinsilta",
+    "stationId": "203",
+    "lat": 60.199235425819,
+    "lon": 24.937826370875783
+  },
+  {
+    "name": "Sinkilätie",
+    "stationId": "324",
+    "lat": 60.23296145,
+    "lon": 25.11106023
+  },
+  {
+    "name": "Kivistön asema",
+    "stationId": "b381d2e8-cfdc-4b7a-8985-10571ad563da",
+    "lat": 60.315565,
+    "lon": 24.849596
+  },
+  {
+    "name": "A.I. Virtasen aukio",
+    "stationId": "204",
+    "lat": 60.205577,
+    "lon": 24.962152
+  },
+  {
+    "name": "Mellunmäki (M)",
+    "stationId": "325",
+    "lat": 60.23853535,
+    "lon": 25.10987474
+  },
+  {
+    "name": "Ilmalan asema",
+    "stationId": "205",
+    "lat": 60.206626437691405,
+    "lon": 24.922219888430064
+  },
+  {
+    "name": "Tuukkalantie",
+    "stationId": "326",
+    "lat": 60.23884425,
+    "lon": 25.10072322
+  },
+  {
+    "name": "Ruskeasuon varikko",
+    "stationId": "206",
+    "lat": 60.20767995961701,
+    "lon": 24.898667890628126
+  },
+  {
+    "name": "Humikkalankuja",
+    "stationId": "327",
+    "lat": 60.229825,
+    "lon": 25.09006415
+  },
+  {
+    "name": "Vanha Viertotie",
+    "stationId": "207",
+    "lat": 60.211075296273414,
+    "lon": 24.881660254358646
+  },
+  {
+    "name": "Lallukankuja",
+    "stationId": "328",
+    "lat": 60.22352658,
+    "lon": 25.08297117
+  },
+  {
+    "name": "Valimotie",
+    "stationId": "208",
+    "lat": 60.215922235436786,
+    "lon": 24.87646479282845
+  },
+  {
+    "name": "Kurkimäki",
+    "stationId": "329",
+    "lat": 60.22829039,
+    "lon": 25.07164165
+  },
+  {
+    "name": "Takomotie",
+    "stationId": "209",
+    "lat": 60.2178996331627,
+    "lon": 24.8710464686467
+  },
+  {
+    "name": "Louhelan asema",
+    "stationId": "3f497b43-b664-4afd-b6d6-44eed1059cf0",
+    "lat": 60.270159,
+    "lon": 24.85318
+  },
+  {
+    "name": "Sananjalanpolku",
+    "stationId": "479c9f74-ae6b-4168-8d09-327839cc4c5e",
+    "lat": 60.313457,
+    "lon": 25.026576
+  },
+  {
+    "name": "Tapiolan urheilupuisto",
+    "stationId": "571",
+    "lat": 60.177749,
+    "lon": 24.784654
+  },
+  {
+    "name": "Lummetie",
+    "stationId": "15d24655-18b1-4119-97dd-f7de2d450c00",
+    "lat": 60.298357,
+    "lon": 25.017637
+  },
+  {
+    "name": "Kontula (M)",
+    "stationId": "330",
+    "lat": 60.23609535,
+    "lon": 25.08260956
+  },
+  {
+    "name": "Koivukylän asema",
+    "stationId": "e7d7521c-3e21-4152-99fe-da08742598d6",
+    "lat": 60.323272,
+    "lon": 25.059884
+  },
+  {
+    "name": "Pajamäki",
+    "stationId": "210",
+    "lat": 60.218807358014985,
+    "lon": 24.85566795479381
+  },
+  {
+    "name": "Lettopolku",
+    "stationId": "331",
+    "lat": 60.24091394,
+    "lon": 25.08552977
+  },
+  {
+    "name": "Urheilupuisto (M)",
+    "stationId": "573",
+    "lat": 60.17465,
+    "lon": 24.779428
+  },
+  {
+    "name": "Haagan tori",
+    "stationId": "211",
+    "lat": 60.21227524113252,
+    "lon": 24.899551136356806
+  },
+  {
+    "name": "Kontulankaari",
+    "stationId": "332",
+    "lat": 60.24384164,
+    "lon": 25.07622658
+  },
+  {
+    "name": "Tunnelitie",
+    "stationId": "212",
+    "lat": 60.21661653745581,
+    "lon": 24.89954369574049
+  },
+  {
+    "name": "Kivikonkaari",
+    "stationId": "333",
+    "lat": 60.23990429,
+    "lon": 25.07464334
+  },
+  {
+    "name": "Tontunmäentie",
+    "stationId": "575",
+    "lat": 60.176107,
+    "lon": 24.769667
+  },
+  {
+    "name": "Huopalahden asema",
+    "stationId": "213",
+    "lat": 60.218088561019165,
+    "lon": 24.89505934373838
+  },
+  {
+    "name": "Varustuksentie",
+    "stationId": "334",
+    "lat": 60.23913101,
+    "lon": 25.06685726
+  },
+  {
+    "name": "Valimon asema",
+    "stationId": "214",
+    "lat": 60.22229427877046,
+    "lon": 24.875870912746144
+  },
+  {
+    "name": "Kurkimäentie",
+    "stationId": "335",
+    "lat": 60.23319439,
+    "lon": 25.06260837
+  },
+  {
+    "name": "Olarinluoma",
+    "stationId": "577",
+    "lat": 60.180848,
+    "lon": 24.760606
+  },
+  {
+    "name": "Rillitori",
+    "stationId": "20e7e636-ab07-47c3-9399-4cbc43a70b45",
+    "lat": 60.293027,
+    "lon": 25.05158
+  },
+  {
+    "name": "Pitäjänmäen asema",
+    "stationId": "215",
+    "lat": 60.224166,
+    "lon": 24.858046
+  },
+  {
+    "name": "Kivikonlaita",
+    "stationId": "336",
+    "lat": 60.23046218,
+    "lon": 25.05491523
+  },
+  {
+    "name": "Jännetie",
+    "stationId": "216",
+    "lat": 60.226769960915966,
+    "lon": 24.85354095884256
+  },
+  {
+    "name": "Kivikon liikuntapuisto",
+    "stationId": "337",
+    "lat": 60.23703582,
+    "lon": 25.05246958
+  },
+  {
+    "name": "Niittymaa",
+    "stationId": "579",
+    "lat": 60.171127,
+    "lon": 24.775913
+  },
+  {
+    "name": "Maalitori",
+    "stationId": "39a1bb62-35e3-4ea0-94c9-e6b94f646829",
+    "lat": 60.291863,
+    "lon": 25.044952
+  },
+  {
+    "name": "Marttila",
+    "stationId": "217",
+    "lat": 60.227143233822176,
+    "lon": 24.873227365442304
+  },
+  {
+    "name": "Jakomäentie",
+    "stationId": "338",
+    "lat": 60.25377123,
+    "lon": 25.07437759
+  },
+  {
+    "name": "Pohjois-Haagan asema",
+    "stationId": "218",
+    "lat": 60.230151499496536,
+    "lon": 24.88312884546424
+  },
+  {
+    "name": "Alppikylä",
+    "stationId": "339",
+    "lat": 60.25943112,
+    "lon": 25.06489421
+  },
+  {
+    "name": "Näyttelijäntie",
+    "stationId": "219",
+    "lat": 60.23285213757895,
+    "lon": 24.887434554817386
+  },
+  {
+    "name": "Liljatie",
+    "stationId": "5ec391fc-b293-46e9-ba81-57a1f9611240",
+    "lat": 60.291098,
+    "lon": 25.022012
+  },
+  {
+    "name": "Niittykumpu (M)",
+    "stationId": "581",
+    "lat": 60.170758,
+    "lon": 24.763184
+  },
+  {
+    "name": "Jakomäki",
+    "stationId": "340",
+    "lat": 60.26101941,
+    "lon": 25.0759056
+  },
+  {
+    "name": "Ida Aalbergin tie",
+    "stationId": "220",
+    "lat": 60.229488,
+    "lon": 24.895199
+  },
+  {
+    "name": "Heikinlaakso",
+    "stationId": "341",
+    "lat": 60.27019655,
+    "lon": 25.07271271
+  },
+  {
+    "name": "Haukilahdensolmu",
+    "stationId": "583",
+    "lat": 60.166481,
+    "lon": 24.772708
+  },
+  {
+    "name": "Teljäntie",
+    "stationId": "100",
+    "lat": 60.20969562580255,
+    "lon": 24.868739477207995
+  },
+  {
+    "name": "Thalianaukio",
+    "stationId": "221",
+    "lat": 60.22534052315868,
+    "lon": 24.894792651160333
+  },
+  {
+    "name": "Puistolan VPK",
+    "stationId": "342",
+    "lat": 60.27008566,
+    "lon": 25.05753557
+  },
+  {
+    "name": "Munkkivuoren ostoskeskus",
+    "stationId": "101",
+    "lat": 60.2059946,
+    "lon": 24.8798291
+  },
+  {
+    "name": "Huovitie",
+    "stationId": "222",
+    "lat": 60.22197553556329,
+    "lon": 24.903286646676616
+  },
+  {
+    "name": "Puistolantori",
+    "stationId": "343",
+    "lat": 60.27436993,
+    "lon": 25.0458546
+  },
+  {
+    "name": "Haukilahdenaukio",
+    "stationId": "585",
+    "lat": 60.162396,
+    "lon": 24.775882
+  },
+  {
+    "name": "Hämeenlinnanväylä",
+    "stationId": "223",
+    "lat": 60.226908,
+    "lon": 24.902865
+  },
+  {
+    "name": "Puistolan asema",
+    "stationId": "344",
+    "lat": 60.2751896,
+    "lon": 25.03435012
+  },
+  {
+    "name": "Vihdintie",
+    "stationId": "103",
+    "lat": 60.208925,
+    "lon": 24.8895209
+  },
+  {
+    "name": "Vesakkotie",
+    "stationId": "224",
+    "lat": 60.22794236805671,
+    "lon": 24.926564764263762
+  },
+  {
+    "name": "Porvarintie",
+    "stationId": "345",
+    "lat": 60.27189034,
+    "lon": 25.03265533
+  },
+  {
+    "name": "Hauenkallio",
+    "stationId": "587",
+    "lat": 60.162477,
+    "lon": 24.767831
+  },
+  {
+    "name": "Kriikunakuja",
+    "stationId": "104",
+    "lat": 60.2056785,
+    "lon": 24.8916817
+  },
+  {
+    "name": "Maunula",
+    "stationId": "225",
+    "lat": 60.230673,
+    "lon": 24.935882
+  },
+  {
+    "name": "Maatullinkuja",
+    "stationId": "346",
+    "lat": 60.275841,
+    "lon": 25.027692
+  },
+  {
+    "name": "Tilkantori",
+    "stationId": "105",
+    "lat": 60.2028392,
+    "lon": 24.8934761
+  },
+  {
+    "name": "Lepolantie",
+    "stationId": "226",
+    "lat": 60.23910894200569,
+    "lon": 24.92859501499382
+  },
+  {
+    "name": "Sateenkaarentie",
+    "stationId": "347",
+    "lat": 60.28075608,
+    "lon": 25.01106298
+  },
+  {
+    "name": "Haukilahdenranta",
+    "stationId": "589",
+    "lat": 60.158048,
+    "lon": 24.769864
+  },
+  {
+    "name": "Korppaanmäentie",
+    "stationId": "106",
+    "lat": 60.2034735,
+    "lon": 24.8989297
+  },
+  {
+    "name": "Kylävoudintie",
+    "stationId": "227",
+    "lat": 60.22440378465167,
+    "lon": 24.952561243589713
+  },
+  {
+    "name": "Siltamäki",
+    "stationId": "348",
+    "lat": 60.27446709,
+    "lon": 24.98939662
+  },
+  {
+    "name": "Tenholantie",
+    "stationId": "107",
+    "lat": 60.2024393,
+    "lon": 24.9054609
+  },
+  {
+    "name": "Kustaankartano",
+    "stationId": "228",
+    "lat": 60.2307028705708,
+    "lon": 24.9487651621967
+  },
+  {
+    "name": "Töyrynummentie",
+    "stationId": "349",
+    "lat": 60.27196238,
+    "lon": 25.00397029
+  },
+  {
+    "name": "Radiokatu",
+    "stationId": "108",
+    "lat": 60.20499,
+    "lon": 24.918419
+  },
+  {
+    "name": "Käskynhaltijantie",
+    "stationId": "229",
+    "lat": 60.2332319517011,
+    "lon": 24.9579341169413
+  },
+  {
+    "name": "Hertanmäenkatu",
+    "stationId": "109",
+    "lat": 60.202539,
+    "lon": 24.922458
+  },
+  {
+    "name": "Ainontie",
+    "stationId": "368c02a3-ee0b-4d38-9bf3-65c9e0848bbf",
+    "lat": 60.271084,
+    "lon": 24.803851
+  },
+  {
+    "name": "Teknobulevardi",
+    "stationId": "fabe5eea-731c-463a-96b9-43b9e9900c31",
+    "lat": 60.30467,
+    "lon": 24.965959
+  },
+  {
+    "name": "Luhtimäki",
+    "stationId": "b7ad2688-0ed3-497b-b56d-4362e2d39fa2",
+    "lat": 60.268954,
+    "lon": 24.820185
+  },
+  {
+    "name": "Ansatie",
+    "stationId": "e7380da9-5370-404a-aabb-c9df4b2681a1",
+    "lat": 60.294786,
+    "lon": 24.922311
+  },
+  {
+    "name": "Mellstenintie",
+    "stationId": "591",
+    "lat": 60.154941,
+    "lon": 24.773993
+  },
+  {
+    "name": "Töyrynummi",
+    "stationId": "350",
+    "lat": 60.26714677,
+    "lon": 24.99299022
+  },
+  {
+    "name": "Mäkitorpantie",
+    "stationId": "230",
+    "lat": 60.228549,
+    "lon": 24.960441
+  },
+  {
+    "name": "Kotinummentie",
+    "stationId": "351",
+    "lat": 60.2675063,
+    "lon": 25.01357237
+  },
+  {
+    "name": "Toppelundintie",
+    "stationId": "593",
+    "lat": 60.1591405,
+    "lon": 24.782477
+  },
+  {
+    "name": "Maistraatintori",
+    "stationId": "110",
+    "lat": 60.199151,
+    "lon": 24.924873
+  },
+  {
+    "name": "Siltavoudintie",
+    "stationId": "231",
+    "lat": 60.23370685633967,
+    "lon": 24.96539507775229
+  },
+  {
+    "name": "Tapanilan asema",
+    "stationId": "352",
+    "lat": 60.26330395,
+    "lon": 25.02812397
+  },
+  {
+    "name": "Esterinportti",
+    "stationId": "111",
+    "lat": 60.1975724,
+    "lon": 24.9267808
+  },
+  {
+    "name": "Oulunkylän asema",
+    "stationId": "232",
+    "lat": 60.2291001633593,
+    "lon": 24.9667185624346
+  },
+  {
+    "name": "Helluntairaitti",
+    "stationId": "353",
+    "lat": 60.2632143,
+    "lon": 25.0368876
+  },
+  {
+    "name": "Westendintie",
+    "stationId": "595",
+    "lat": 60.158194,
+    "lon": 24.791754
+  },
+  {
+    "name": "Rautatieläisenkatu",
+    "stationId": "112",
+    "lat": 60.2014382,
+    "lon": 24.9332721
+  },
+  {
+    "name": "Kirkkoherrantie",
+    "stationId": "233",
+    "lat": 60.22493036511101,
+    "lon": 24.972819375145058
+  },
+  {
+    "name": "Saniaiskuja",
+    "stationId": "354",
+    "lat": 60.25909157,
+    "lon": 25.02909058
+  },
+  {
+    "name": "Toppelundinportti",
+    "stationId": "596",
+    "lat": 60.1624471,
+    "lon": 24.7848628
+  },
+  {
+    "name": "Pasilan asema",
+    "stationId": "113",
+    "lat": 60.198210866794,
+    "lon": 24.9327990790329
+  },
+  {
+    "name": "Otto Brandtin tie",
+    "stationId": "234",
+    "lat": 60.23178406584145,
+    "lon": 24.978138919040457
+  },
+  {
+    "name": "Halmetie",
+    "stationId": "355",
+    "lat": 60.26090681,
+    "lon": 25.01765775
+  },
+  {
+    "name": "Linnakepolku",
+    "stationId": "597",
+    "lat": 60.1637,
+    "lon": 24.790132
+  },
+  {
+    "name": "Ratapihantie",
+    "stationId": "114",
+    "lat": 60.196431,
+    "lon": 24.936256
+  },
+  {
+    "name": "Katariina Saksilaisen katu",
+    "stationId": "235",
+    "lat": 60.217214807977534,
+    "lon": 24.984420078358692
+  },
+  {
+    "name": "Laulurastaantie",
+    "stationId": "356",
+    "lat": 60.26088465,
+    "lon": 25.00331024
+  },
+  {
+    "name": "Venttiilikuja",
+    "stationId": "115",
+    "lat": 60.1942095,
+    "lon": 24.941578
+  },
+  {
+    "name": "Hernepellontie",
+    "stationId": "236",
+    "lat": 60.224212141004635,
+    "lon": 24.98860011548657
+  },
+  {
+    "name": "Vanha Tapanilantie",
+    "stationId": "357",
+    "lat": 60.25969904,
+    "lon": 24.98975388
+  },
+  {
+    "name": "Linnanmäki",
+    "stationId": "116",
+    "lat": 60.191275,
+    "lon": 24.942027
+  },
+  {
+    "name": "Aulangontie",
+    "stationId": "237",
+    "lat": 60.23030192663912,
+    "lon": 24.998533819860555
+  },
+  {
+    "name": "Syystie",
+    "stationId": "358",
+    "lat": 60.25667117,
+    "lon": 24.99860558
+  },
+  {
+    "name": "Brahen puistikko",
+    "stationId": "117",
+    "lat": 60.1896706,
+    "lon": 24.9481024
+  },
+  {
+    "name": "Pihlajamäki",
+    "stationId": "238",
+    "lat": 60.234578571034135,
+    "lon": 25.010313905081038
+  },
+  {
+    "name": "Malmin sairaala",
+    "stationId": "359",
+    "lat": 60.25415862,
+    "lon": 25.00282802
+  },
+  {
+    "name": "Fleminginkatu",
+    "stationId": "118",
+    "lat": 60.1895417,
+    "lon": 24.9521601
+  },
+  {
+    "name": "Viikin tiedepuisto",
+    "stationId": "239",
+    "lat": 60.227520671727405,
+    "lon": 25.010062061139756
+  },
+  {
+    "name": "Gebhardinaukio",
+    "stationId": "119",
+    "lat": 60.190857,
+    "lon": 24.956262
+  },
+  {
+    "name": "Myyrmäen asema",
+    "stationId": "ac9dfe32-a280-4214-9fd3-b36412809520",
+    "lat": 60.260966,
+    "lon": 24.85481
+  },
+  {
+    "name": "Pakkalan puistotie",
+    "stationId": "7eb7a138-2b68-4b98-8f1f-6d95b817928a",
+    "lat": 60.289566,
+    "lon": 24.948991
+  },
+  {
+    "name": "Malmin asema",
+    "stationId": "360",
+    "lat": 60.25232553,
+    "lon": 25.00912157
+  },
+  {
+    "name": "Viikin normaalikoulu",
+    "stationId": "240",
+    "lat": 60.227495295832895,
+    "lon": 25.02761893353016
+  },
+  {
+    "name": "Huhtakuja",
+    "stationId": "361",
+    "lat": 60.25756333,
+    "lon": 25.01310802
+  },
+  {
+    "name": "Mäkelänkatu",
+    "stationId": "120",
+    "lat": 60.1896352,
+    "lon": 24.9635596
+  },
+  {
+    "name": "Agronominkatu",
+    "stationId": "241",
+    "lat": 60.2340530100318,
+    "lon": 25.032857400999006
+  },
+  {
+    "name": "Teerisuontie",
+    "stationId": "362",
+    "lat": 60.25339409,
+    "lon": 25.02149008
+  },
+  {
+    "name": "Myyrmäen uimahalli",
+    "stationId": "6f9fe30f-c0f8-4cc1-94a8-e159a8009cfc",
+    "lat": 60.26555,
+    "lon": 24.852125
+  },
+  {
+    "name": "Möskärinmäki",
+    "stationId": "bd705748-7c8b-4674-a959-8cdec84f1080",
+    "lat": 60.317041,
+    "lon": 25.026532
+  },
+  {
+    "name": "Vilhonvuorenkatu",
+    "stationId": "121",
+    "lat": 60.1864553,
+    "lon": 24.96785412
+  },
+  {
+    "name": "Von Daehnin katu",
+    "stationId": "242",
+    "lat": 60.23033717886547,
+    "lon": 25.04356806988234
+  },
+  {
+    "name": "Väärämäentie",
+    "stationId": "363",
+    "lat": 60.24269283,
+    "lon": 25.0297267
+  },
+  {
+    "name": "Kaivopuisto",
+    "stationId": "001",
+    "lat": 60.15544479382098,
+    "lon": 24.950292889690314
+  },
+  {
+    "name": "Lintulahdenkatu",
+    "stationId": "122",
+    "lat": 60.1837182,
+    "lon": 24.9621936
+  },
+  {
+    "name": "Mustikkamaa",
+    "stationId": "243",
+    "lat": 60.181861779166056,
+    "lon": 24.992037110168354
+  },
+  {
+    "name": "Ala-Malmin tori",
+    "stationId": "364",
+    "lat": 60.25030635,
+    "lon": 25.01323714
+  },
+  {
+    "name": "Laivasillankatu",
+    "stationId": "002",
+    "lat": 60.160959094315416,
+    "lon": 24.95634747175871
+  },
+  {
+    "name": "Näkinsilta",
+    "stationId": "123",
+    "lat": 60.180021,
+    "lon": 24.954707
+  },
+  {
+    "name": "Relanderinaukio",
+    "stationId": "244",
+    "lat": 60.18588749805257,
+    "lon": 25.00601922389024
+  },
+  {
+    "name": "Karviaistie",
+    "stationId": "365",
+    "lat": 60.24684531,
+    "lon": 25.00786044
+  },
+  {
+    "name": "Kapteeninpuistikko",
+    "stationId": "003",
+    "lat": 60.1581892,
+    "lon": 24.9449274
+  },
+  {
+    "name": "Isoisänsilta",
+    "stationId": "124",
+    "lat": 60.18265182058,
+    "lon": 24.98179260578
+  },
+  {
+    "name": "Kulosaari (M)",
+    "stationId": "245",
+    "lat": 60.188950088551046,
+    "lon": 25.006566530899704
+  },
+  {
+    "name": "Tilketori",
+    "stationId": "366",
+    "lat": 60.24982656,
+    "lon": 25.00399305
+  },
+  {
+    "name": "Viiskulma",
+    "stationId": "004",
+    "lat": 60.1609859,
+    "lon": 24.9417758
+  },
+  {
+    "name": "Arielinkatu",
+    "stationId": "125",
+    "lat": 60.185922,
+    "lon": 24.979739
+  },
+  {
+    "name": "Tupasaarentie",
+    "stationId": "246",
+    "lat": 60.187998177032696,
+    "lon": 25.015391648483803
+  },
+  {
+    "name": "Karhusuontie",
+    "stationId": "367",
+    "lat": 60.25177958,
+    "lon": 24.98706493
+  },
+  {
+    "name": "Sepänkatu",
+    "stationId": "005",
+    "lat": 60.158111,
+    "lon": 24.936798
+  },
+  {
+    "name": "Kalasatama (M)",
+    "stationId": "126",
+    "lat": 60.18755649,
+    "lon": 24.9770684
+  },
+  {
+    "name": "Haakoninlahdenkatu",
+    "stationId": "247",
+    "lat": 60.168655,
+    "lon": 25.016146
+  },
+  {
+    "name": "Pukinmäen liikuntapuisto",
+    "stationId": "368",
+    "lat": 60.24773234,
+    "lon": 24.99172391
+  },
+  {
+    "name": "Hietalahdentori",
+    "stationId": "006",
+    "lat": 60.1622251,
+    "lon": 24.9297099
+  },
+  {
+    "name": "Teurastamo",
+    "stationId": "127",
+    "lat": 60.1896994,
+    "lon": 24.9711926
+  },
+  {
+    "name": "Gunillantie",
+    "stationId": "248",
+    "lat": 60.171980271468335,
+    "lon": 25.032968849816825
+  },
+  {
+    "name": "Pukinmäen asema",
+    "stationId": "369",
+    "lat": 60.24308645,
+    "lon": 24.99399523
+  },
+  {
+    "name": "Designmuseo",
+    "stationId": "007",
+    "lat": 60.1631032,
+    "lon": 24.94596
+  },
+  {
+    "name": "Päijänteentie",
+    "stationId": "128",
+    "lat": 60.1920576,
+    "lon": 24.9642238
+  },
+  {
+    "name": "Isosaarentie",
+    "stationId": "249",
+    "lat": 60.17549032254954,
+    "lon": 25.044900705939895
+  },
+  {
+    "name": "Vanha kirkkopuisto",
+    "stationId": "008",
+    "lat": 60.1652883,
+    "lon": 24.9391499
+  },
+  {
+    "name": "Pernajantie",
+    "stationId": "129",
+    "lat": 60.1942342,
+    "lon": 24.9579931
+  },
+  {
+    "name": "Erottajan aukio",
+    "stationId": "009",
+    "lat": 60.166890083486,
+    "lon": 24.9442610720753
+  },
+  {
+    "name": "Myyrmäen jäähalli",
+    "stationId": "1d5f95bb-daf4-49ef-8740-0a706ad4f707",
+    "lat": 60.263718,
+    "lon": 24.840966
+  },
+  {
+    "name": "Peltolantori",
+    "stationId": "a8dcc31b-99eb-421e-b509-f50573c35cfb",
+    "lat": 60.293565,
+    "lon": 25.02995
+  },
+  {
+    "name": "Riistakuja",
+    "stationId": "34dd920f-ed7a-4b54-a1bc-45103fb1d474",
+    "lat": 60.295268,
+    "lon": 24.907064
+  },
+  {
+    "name": "Osmankäämintie",
+    "stationId": "01b1be29-1884-4aaa-9e10-4faa0b2a036b",
+    "lat": 60.29155,
+    "lon": 25.017565
+  },
+  {
+    "name": "Rapakiventie",
+    "stationId": "370",
+    "lat": 60.23931968,
+    "lon": 25.00136762
+  },
+  {
+    "name": "Reiherintie",
+    "stationId": "250",
+    "lat": 60.167730503345986,
+    "lon": 25.047496264887712
+  },
+  {
+    "name": "Savela",
+    "stationId": "371",
+    "lat": 60.24049485,
+    "lon": 24.99138726
+  },
+  {
+    "name": "Teollisuuskatu",
+    "stationId": "130",
+    "lat": 60.193755,
+    "lon": 24.948106
+  },
+  {
+    "name": "Laajasalon ostoskeskus",
+    "stationId": "251",
+    "lat": 60.18009213610057,
+    "lon": 25.05188370479307
+  },
+  {
+    "name": "Jokipellontie",
+    "stationId": "372",
+    "lat": 60.24521779,
+    "lon": 24.98332148
+  },
+  {
+    "name": "Kasarmitori",
+    "stationId": "010",
+    "lat": 60.1650171805,
+    "lon": 24.94947287873
+  },
+  {
+    "name": "Elimäenkatu",
+    "stationId": "131",
+    "lat": 60.1962627,
+    "lon": 24.9476186
+  },
+  {
+    "name": "Humalniementie",
+    "stationId": "252",
+    "lat": 60.18374384938291,
+    "lon": 25.053037859101934
+  },
+  {
+    "name": "Mikkolantie",
+    "stationId": "373",
+    "lat": 60.23556664,
+    "lon": 24.97154425
+  },
+  {
+    "name": "Unioninkatu",
+    "stationId": "011",
+    "lat": 60.1674573,
+    "lon": 24.9510227
+  },
+  {
+    "name": "Urhea-kampus",
+    "stationId": "132",
+    "lat": 60.19914958,
+    "lon": 24.94782519
+  },
+  {
+    "name": "Tammisalon aukio",
+    "stationId": "253",
+    "lat": 60.19164687919301,
+    "lon": 25.06118417092495
+  },
+  {
+    "name": "Etupellonpuisto",
+    "stationId": "374",
+    "lat": 60.24198627,
+    "lon": 24.95944938
+  },
+  {
+    "name": "Kanavaranta",
+    "stationId": "012",
+    "lat": 60.168384,
+    "lon": 24.9583814
+  },
+  {
+    "name": "Paavalinpuisto",
+    "stationId": "133",
+    "lat": 60.1974886,
+    "lon": 24.9614385
+  },
+  {
+    "name": "Agnetankuja",
+    "stationId": "254",
+    "lat": 60.187234122757424,
+    "lon": 25.036412289626025
+  },
+  {
+    "name": "Piikintie",
+    "stationId": "375",
+    "lat": 60.24885591,
+    "lon": 24.95814405
+  },
+  {
+    "name": "Eric Von Rettingin puisto",
+    "stationId": "1e42bbce-5620-43b6-82e5-25b758920e1f",
+    "lat": 60.295238,
+    "lon": 25.048959
+  },
+  {
+    "name": "Merisotilaantori",
+    "stationId": "013",
+    "lat": 60.1678703,
+    "lon": 24.9755341
+  },
+  {
+    "name": "Haukilahdenkatu",
+    "stationId": "134",
+    "lat": 60.198739,
+    "lon": 24.969075
+  },
+  {
+    "name": "Laivalahden puistotie",
+    "stationId": "255",
+    "lat": 60.18795810306132,
+    "lon": 25.031385306773423
+  },
+  {
+    "name": "Torpparinmäentie",
+    "stationId": "376",
+    "lat": 60.257183,
+    "lon": 24.943635
+  },
+  {
+    "name": "Senaatintori",
+    "stationId": "014",
+    "lat": 60.169112,
+    "lon": 24.952197
+  },
+  {
+    "name": "Velodrominrinne",
+    "stationId": "135",
+    "lat": 60.2010614,
+    "lon": 24.9440506
+  },
+  {
+    "name": "Herttoniemenranta",
+    "stationId": "256",
+    "lat": 60.190210145879014,
+    "lon": 25.026065710136564
+  },
+  {
+    "name": "Paloheinän maja",
+    "stationId": "377",
+    "lat": 60.25523561,
+    "lon": 24.91830089
+  },
+  {
+    "name": "Ritarikatu",
+    "stationId": "015",
+    "lat": 60.17110664588,
+    "lon": 24.95555819284
+  },
+  {
+    "name": "Sofianlehdonkatu",
+    "stationId": "136",
+    "lat": 60.2032721,
+    "lon": 24.9513636
+  },
+  {
+    "name": "Margareetankuja",
+    "stationId": "257",
+    "lat": 60.19100958139025,
+    "lon": 25.037070035460086
+  },
+  {
+    "name": "Paloheinäntie",
+    "stationId": "378",
+    "lat": 60.24699181,
+    "lon": 24.92385807
+  },
+  {
+    "name": "Liisanpuistikko",
+    "stationId": "016",
+    "lat": 60.174140249623726,
+    "lon": 24.962084269349347
+  },
+  {
+    "name": "Arabian kauppakeskus",
+    "stationId": "137",
+    "lat": 60.20262,
+    "lon": 24.96608
+  },
+  {
+    "name": "Abraham Wetterin tie",
+    "stationId": "258",
+    "lat": 60.19270789626325,
+    "lon": 25.042580274921047
+  },
+  {
+    "name": "Paloheinän kirjasto",
+    "stationId": "379",
+    "lat": 60.24950971,
+    "lon": 24.94166821
+  },
+  {
+    "name": "Varsapuistikko",
+    "stationId": "017",
+    "lat": 60.1731029004969,
+    "lon": 24.9495192737191
+  },
+  {
+    "name": "Arabiankatu",
+    "stationId": "138",
+    "lat": 60.20649156514502,
+    "lon": 24.977079011778606
+  },
+  {
+    "name": "Petter Wetterin tie",
+    "stationId": "259",
+    "lat": 60.19313762536413,
+    "lon": 25.031111942585127
+  },
+  {
+    "name": "Hagelstaminpuisto",
+    "stationId": "d8878e09-0ec8-4c54-a912-0edd9d5ea828",
+    "lat": 60.281198,
+    "lon": 24.966026
+  },
+  {
+    "name": "Porthania",
+    "stationId": "018",
+    "lat": 60.16988,
+    "lon": 24.948522
+  },
+  {
+    "name": "Muotoilijankatu",
+    "stationId": "139",
+    "lat": 60.209796,
+    "lon": 24.979682
+  },
+  {
+    "name": "Rautatientori / itä",
+    "stationId": "019",
+    "lat": 60.1708236,
+    "lon": 24.9425268
+  },
+  {
+    "name": "Leinelän asema",
+    "stationId": "55a08b2c-7155-47fa-bbb0-d8eafff2c393",
+    "lat": 60.323203,
+    "lon": 25.037522
+  },
+  {
+    "name": "Karhumäenportti",
+    "stationId": "b79a95c7-3163-4a51-8a38-f9b6d977f225",
+    "lat": 60.305433,
+    "lon": 24.958831
+  },
+  {
+    "name": "Pirkkolan liikuntapuisto",
+    "stationId": "380",
+    "lat": 60.2327348,
+    "lon": 24.90975085
+  },
+  {
+    "name": "Herttoniemi (M)",
+    "stationId": "260",
+    "lat": 60.194614624348006,
+    "lon": 25.02887208274608
+  },
+  {
+    "name": "Maununneva",
+    "stationId": "381",
+    "lat": 60.24448845,
+    "lon": 24.89943434
+  },
+  {
+    "name": "Verkatehtaanpuisto",
+    "stationId": "140",
+    "lat": 60.2137007,
+    "lon": 24.9797283
+  },
+  {
+    "name": "Asentajanpuisto",
+    "stationId": "261",
+    "lat": 60.19912713758262,
+    "lon": 25.042592465753465
+  },
+  {
+    "name": "Hakuninmaa",
+    "stationId": "382",
+    "lat": 60.25296715,
+    "lon": 24.8970699
+  },
+  {
+    "name": "Kaisaniemenpuisto",
+    "stationId": "020",
+    "lat": 60.172951,
+    "lon": 24.942985
+  },
+  {
+    "name": "Intiankatu",
+    "stationId": "141",
+    "lat": 60.2078582,
+    "lon": 24.9676383
+  },
+  {
+    "name": "Siilitie (M)",
+    "stationId": "262",
+    "lat": 60.20596244959136,
+    "lon": 25.04516115672629
+  },
+  {
+    "name": "Kuninkaantammi",
+    "stationId": "383",
+    "lat": 60.25925606,
+    "lon": 24.8927574
+  },
+  {
+    "name": "Töölönlahdenkatu",
+    "stationId": "021",
+    "lat": 60.17219068,
+    "lon": 24.93930791
+  },
+  {
+    "name": "Koskelantie",
+    "stationId": "142",
+    "lat": 60.20783998,
+    "lon": 24.94667728
+  },
+  {
+    "name": "Herttoniemen kirkko",
+    "stationId": "263",
+    "lat": 60.19844295116548,
+    "lon": 25.032112127941765
+  },
+  {
+    "name": "Kalannintie",
+    "stationId": "384",
+    "lat": 60.25280663,
+    "lon": 24.88410754
+  },
+  {
+    "name": "Rautatientori / länsi",
+    "stationId": "022",
+    "lat": 60.1706061,
+    "lon": 24.9397601
+  },
+  {
+    "name": "Kuikkarinne",
+    "stationId": "143",
+    "lat": 60.15708560052,
+    "lon": 24.86930605276
+  },
+  {
+    "name": "Eränkävijäntori",
+    "stationId": "264",
+    "lat": 60.204561663649095,
+    "lon": 25.033597412211737
+  },
+  {
+    "name": "Pajupillintie",
+    "stationId": "385",
+    "lat": 60.2432353,
+    "lon": 24.88610263
+  },
+  {
+    "name": "Kiasma",
+    "stationId": "023",
+    "lat": 60.171273,
+    "lon": 24.937106
+  },
+  {
+    "name": "Käpyläntie",
+    "stationId": "144",
+    "lat": 60.2139043,
+    "lon": 24.9588108
+  },
+  {
+    "name": "Siilitie 9",
+    "stationId": "265",
+    "lat": 60.20947670530612,
+    "lon": 25.037482215660486
+  },
+  {
+    "name": "Kannelmäen liikuntapuisto",
+    "stationId": "386",
+    "lat": 60.24374634,
+    "lon": 24.8788005
+  },
+  {
+    "name": "Mannerheimintie",
+    "stationId": "024",
+    "lat": 60.1690724,
+    "lon": 24.9394195
+  },
+  {
+    "name": "Pohjolankatu",
+    "stationId": "145",
+    "lat": 60.213421,
+    "lon": 24.9437964
+  },
+  {
+    "name": "Siilitie 13",
+    "stationId": "266",
+    "lat": 60.215063371665806,
+    "lon": 25.04379377901174
+  },
+  {
+    "name": "Kauppakeskus Kaari",
+    "stationId": "387",
+    "lat": 60.23633055,
+    "lon": 24.88947967
+  },
+  {
+    "name": "Narinkka",
+    "stationId": "025",
+    "lat": 60.1700420359,
+    "lon": 24.93460698
+  },
+  {
+    "name": "Pohjolanaukio",
+    "stationId": "146",
+    "lat": 60.2172043,
+    "lon": 24.9544112
+  },
+  {
+    "name": "Roihupelto",
+    "stationId": "267",
+    "lat": 60.209287,
+    "lon": 25.055528
+  },
+  {
+    "name": "Kaustisentie",
+    "stationId": "388",
+    "lat": 60.23780652,
+    "lon": 24.88145171
+  },
+  {
+    "name": "Kamppi (M)",
+    "stationId": "026",
+    "lat": 60.1686095,
+    "lon": 24.9305373
+  },
+  {
+    "name": "Käpylän asema",
+    "stationId": "147",
+    "lat": 60.2208057097763,
+    "lon": 24.9479290250383
+  },
+  {
+    "name": "Porolahden koulu",
+    "stationId": "268",
+    "lat": 60.19553971683871,
+    "lon": 25.053580944057305
+  },
+  {
+    "name": "Kannelmäen asema",
+    "stationId": "389",
+    "lat": 60.23934599,
+    "lon": 24.87664725
+  },
+  {
+    "name": "Eerikinkatu",
+    "stationId": "027",
+    "lat": 60.1673332,
+    "lon": 24.9357851
+  },
+  {
+    "name": "Juhana Herttuan tie",
+    "stationId": "148",
+    "lat": 60.2184427,
+    "lon": 24.9664619
+  },
+  {
+    "name": "Peukaloisentie",
+    "stationId": "269",
+    "lat": 60.1987054995554,
+    "lon": 25.05854933123242
+  },
+  {
+    "name": "Kukkakimpunpuisto",
+    "stationId": "5298abdd-701b-4a7d-ac43-c90c5b13daae",
+    "lat": 60.301463,
+    "lon": 25.04101
+  },
+  {
+    "name": "Lastenlehto",
+    "stationId": "028",
+    "lat": 60.1658121,
+    "lon": 24.927021
+  },
+  {
+    "name": "Toinen linja",
+    "stationId": "149",
+    "lat": 60.183164,
+    "lon": 24.9441949
+  },
+  {
+    "name": "Baana",
+    "stationId": "029",
+    "lat": 60.164088,
+    "lon": 24.9225658
+  },
+  {
+    "name": "Trumpettikuja",
+    "stationId": "390",
+    "lat": 60.23915611,
+    "lon": 24.86911
+  },
+  {
+    "name": "Tulisuontie",
+    "stationId": "270",
+    "lat": 60.202072986712835,
+    "lon": 25.060046596074795
+  },
+  {
+    "name": "Tollinpolku",
+    "stationId": "391",
+    "lat": 60.24590853,
+    "lon": 24.86771102
+  },
+  {
+    "name": "Töölönlahden puisto",
+    "stationId": "150",
+    "lat": 60.174646,
+    "lon": 24.935186
+  },
+  {
+    "name": "Prinsessantie",
+    "stationId": "271",
+    "lat": 60.205745,
+    "lon": 25.057488
+  },
+  {
+    "name": "Viljelijäntie",
+    "stationId": "392",
+    "lat": 60.24323344,
+    "lon": 24.85729796
+  },
+  {
+    "name": "Itämerentori",
+    "stationId": "030",
+    "lat": 60.1635309,
+    "lon": 24.9145165
+  },
+  {
+    "name": "Marjaniementie",
+    "stationId": "272",
+    "lat": 60.20432489166999,
+    "lon": 25.07606935994523
+  },
+  {
+    "name": "Malminkartanon asema",
+    "stationId": "393",
+    "lat": 60.24781786,
+    "lon": 24.86311564
+  },
+  {
+    "name": "Marian sairaala",
+    "stationId": "031",
+    "lat": 60.1680998,
+    "lon": 24.9220763
+  },
+  {
+    "name": "Tuohipolku",
+    "stationId": "394",
+    "lat": 60.25156469,
+    "lon": 24.85743226
+  },
+  {
+    "name": "Eläinmuseo",
+    "stationId": "032",
+    "lat": 60.1713589074265,
+    "lon": 24.9318975121428
+  },
+  {
+    "name": "Voikukantie",
+    "stationId": "274",
+    "lat": 60.20899759942336,
+    "lon": 25.086782105520793
+  },
+  {
+    "name": "Honkasuo",
+    "stationId": "395",
+    "lat": 60.25555748,
+    "lon": 24.84658097
+  },
+  {
+    "name": "Kauppakorkeakoulu",
+    "stationId": "033",
+    "lat": 60.171196,
+    "lon": 24.924894
+  },
+  {
+    "name": "Itäkeskus (M)",
+    "stationId": "275",
+    "lat": 60.20960066552812,
+    "lon": 25.07596801515546
+  },
+  {
+    "name": "Malminkartanonhuippu",
+    "stationId": "396",
+    "lat": 60.25040779,
+    "lon": 24.84864869
+  },
+  {
+    "name": "Kansallismuseo",
+    "stationId": "034",
+    "lat": 60.1739641,
+    "lon": 24.9329875
+  },
+  {
+    "name": "Puotinharju",
+    "stationId": "276",
+    "lat": 60.21249416558419,
+    "lon": 25.08232209439382
+  },
+  {
+    "name": "Hankasuontie",
+    "stationId": "397",
+    "lat": 60.24474377,
+    "lon": 24.84758603
+  },
+  {
+    "name": "Cygnaeuksenkatu",
+    "stationId": "035",
+    "lat": 60.174063715,
+    "lon": 24.92822758053
+  },
+  {
+    "name": "Marjaniemi",
+    "stationId": "277",
+    "lat": 60.20360955659899,
+    "lon": 25.086296156701028
+  },
+  {
+    "name": "Ajomiehentie",
+    "stationId": "398",
+    "lat": 60.2388821,
+    "lon": 24.85129051
+  },
+  {
+    "name": "Ratatie",
+    "stationId": "32090cad-6d82-41a7-996f-b638a48e69c0",
+    "lat": 60.291047,
+    "lon": 25.041988
+  },
+  {
+    "name": "Apollonkatu",
+    "stationId": "036",
+    "lat": 60.1760798,
+    "lon": 24.9223942
+  },
+  {
+    "name": "Puotilantie",
+    "stationId": "278",
+    "lat": 60.209059633662385,
+    "lon": 25.100426060233303
+  },
+  {
+    "name": "Vähäntuvantie",
+    "stationId": "399",
+    "lat": 60.23245104,
+    "lon": 24.84616505
+  },
+  {
+    "name": "Töölönkatu",
+    "stationId": "037",
+    "lat": 60.1775598,
+    "lon": 24.9283272
+  },
+  {
+    "name": "Puotinkylän kartano",
+    "stationId": "279",
+    "lat": 60.21250990784526,
+    "lon": 25.10619874297898
+  },
+  {
+    "name": "Töölöntori",
+    "stationId": "038",
+    "lat": 60.1791231,
+    "lon": 24.9249114
+  },
+  {
+    "name": "Ooppera",
+    "stationId": "039",
+    "lat": 60.1825529,
+    "lon": 24.926687
+  },
+  {
+    "name": "Vetokuja",
+    "stationId": "026fc2cb-8c1d-489c-a8a7-77634161bfd5",
+    "lat": 60.269449,
+    "lon": 24.878987
+  },
+  {
+    "name": "Lammasrinne",
+    "stationId": "3d3399bd-79d1-42f6-aac8-d1f5caeddce4",
+    "lat": 60.261874,
+    "lon": 24.806577
+  },
+  {
+    "name": "Sairaalakatu",
+    "stationId": "e5b85222-4014-438d-9075-78801b7a2282",
+    "lat": 60.331727,
+    "lon": 25.06126
+  },
+  {
+    "name": "Laurintie",
+    "stationId": "12ec4412-fa32-430b-afae-4aba7bc46b1f",
+    "lat": 60.327625,
+    "lon": 25.096757
+  },
+  {
+    "name": "Ollaksentie",
+    "stationId": "193159b8-a8e2-4ee5-8db3-f880e3811f91",
+    "lat": 60.284607,
+    "lon": 24.9107
+  },
+  {
+    "name": "Mestarintie",
+    "stationId": "5ae25984-30e5-4092-b4a3-81f24979c58d",
+    "lat": 60.307614,
+    "lon": 24.850754
+  },
+  {
+    "name": "Robert Huberin tie",
+    "stationId": "37e3d0bb-ea6d-469e-b913-eed3db8b6f96",
+    "lat": 60.295917,
+    "lon": 24.962797
+  },
+  {
+    "name": "Puotilan ostoskeskus",
+    "stationId": "280",
+    "lat": 60.212182,
+    "lon": 25.095697
+  },
+  {
+    "name": "Puotila (M)",
+    "stationId": "281",
+    "lat": 60.21482071331432,
+    "lon": 25.09112452769074
+  },
+  {
+    "name": "Hakaniemi (M)",
+    "stationId": "040",
+    "lat": 60.17810631604,
+    "lon": 24.95218124892
+  },
+  {
+    "name": "Eteläesplanadi",
+    "stationId": "161",
+    "lat": 60.16723083051,
+    "lon": 24.94746581951
+  },
+  {
+    "name": "Karhulantie",
+    "stationId": "282",
+    "lat": 60.218876,
+    "lon": 25.103386
+  },
+  {
+    "name": "Kilterinaukio",
+    "stationId": "f84099ff-45a0-4248-a96c-8973dc5986fb",
+    "lat": 60.257154,
+    "lon": 24.852674
+  },
+  {
+    "name": "Ympyrätalo",
+    "stationId": "041",
+    "lat": 60.180863,
+    "lon": 24.9494
+  },
+  {
+    "name": "Leppäsuonaukio",
+    "stationId": "162",
+    "lat": 60.16957343209,
+    "lon": 24.92659049777
+  },
+  {
+    "name": "Alakiventie",
+    "stationId": "283",
+    "lat": 60.21985096601641,
+    "lon": 25.077470244052627
+  },
+  {
+    "name": "Koivuvaarankuja",
+    "stationId": "cc17c40e-9ee8-4e06-87f1-332222cea4a1",
+    "lat": 60.254641,
+    "lon": 24.814555
+  },
+  {
+    "name": "Haapaniemenkatu",
+    "stationId": "042",
+    "lat": 60.181949,
+    "lon": 24.956806
+  },
+  {
+    "name": "Lehtisaarentie",
+    "stationId": "163",
+    "lat": 60.1818132200983,
+    "lon": 24.8504396679317
+  },
+  {
+    "name": "Myllypuro (M)",
+    "stationId": "284",
+    "lat": 60.22408646778726,
+    "lon": 25.075395792228694
+  },
+  {
+    "name": "Karhupuisto",
+    "stationId": "043",
+    "lat": 60.1842833,
+    "lon": 24.9526763
+  },
+  {
+    "name": "Orpaanporras",
+    "stationId": "285",
+    "lat": 60.22356519670723,
+    "lon": 25.0654218381558
+  },
+  {
+    "name": "Sörnäinen (M)",
+    "stationId": "044",
+    "lat": 60.188129,
+    "lon": 24.9607
+  },
+  {
+    "name": "Mamsellimyllynkatu",
+    "stationId": "286",
+    "lat": 60.21825196984328,
+    "lon": 25.05910387617357
+  },
+  {
+    "name": "Kauppalaivurintie",
+    "stationId": "e9741b44-d2a8-4a2f-a957-66d1091ce184",
+    "lat": 60.290333,
+    "lon": 24.866343
+  },
+  {
+    "name": "Brahen kenttä",
+    "stationId": "045",
+    "lat": 60.1868618,
+    "lon": 24.9509168
+  },
+  {
+    "name": "Diakoniapuisto",
+    "stationId": "046",
+    "lat": 60.186979,
+    "lon": 24.943358
+  },
+  {
+    "name": "Vanha Kauppahalli",
+    "stationId": "047",
+    "lat": 60.165343,
+    "lon": 24.953535
+  },
+  {
+    "name": "Mastokatu",
+    "stationId": "048",
+    "lat": 60.1647545,
+    "lon": 24.9674861
+  },
+  {
+    "name": "Annankatu",
+    "stationId": "049",
+    "lat": 60.16345894291,
+    "lon": 24.94177084206
+  },
+  {
+    "name": "Hiekkatie",
+    "stationId": "db801e0a-5ee8-4a96-955c-6a97576abc75",
+    "lat": 60.304788,
+    "lon": 25.041523
+  },
+  {
+    "name": "Jokiuomanpuisto",
+    "stationId": "de3a5510-bda9-40c7-94b7-60c6a3595b0d",
+    "lat": 60.273536,
+    "lon": 24.857099
+  },
+  {
+    "name": "Urheilutie",
+    "stationId": "01f04033-9177-4de4-83de-cf21d3de2491",
+    "lat": 60.295696,
+    "lon": 25.059506
+  },
+  {
+    "name": "Kurjenpolvenpuisto",
+    "stationId": "50524630-86bf-4710-89f3-aa7f19de972f",
+    "lat": 60.294026,
+    "lon": 25.018708
+  },
+  {
+    "name": "Suopursunaukio",
+    "stationId": "ab0e4c37-d5ed-40ed-a512-3d032dda189e",
+    "lat": 60.299485,
+    "lon": 25.04187
+  },
+  {
+    "name": "Laajavuorentie",
+    "stationId": "f9cde94a-1e47-4e7c-bb20-e395ca8051e2",
+    "lat": 60.28178,
+    "lon": 24.848385
+  },
+  {
+    "name": "Pähkinärinteen kirjasto",
+    "stationId": "5e4ae3f9-5975-4a62-82c0-007629360f5f",
+    "lat": 60.256599,
+    "lon": 24.805655
+  },
+  {
+    "name": "Vallilan varikko",
+    "stationId": "290",
+    "lat": 60.195225,
+    "lon": 24.962832
+  },
+  {
+    "name": "Itäkeskus Metrovarikko",
+    "stationId": "291",
+    "lat": 60.211446,
+    "lon": 25.065816
+  },
+  {
+    "name": "Melkonkuja",
+    "stationId": "050",
+    "lat": 60.1498127,
+    "lon": 24.8861094
+  },
+  {
+    "name": "Koskelan varikko",
+    "stationId": "292",
+    "lat": 60.212701,
+    "lon": 24.969956
+  },
+  {
+    "name": "Itälahdenkatu",
+    "stationId": "051",
+    "lat": 60.15066,
+    "lon": 24.8812502
+  },
+  {
+    "name": "Korkeasaari",
+    "stationId": "293",
+    "lat": 60.1799061407845,
+    "lon": 24.9825269338027
+  },
+  {
+    "name": "Heikkilänaukio",
+    "stationId": "052",
+    "lat": 60.1540763,
+    "lon": 24.8793159
+  },
+  {
+    "name": "Postipuisto",
+    "stationId": "294",
+    "lat": 60.220301,
+    "lon": 24.933737
+  },
+  {
+    "name": "Heikkiläntie",
+    "stationId": "053",
+    "lat": 60.156817,
+    "lon": 24.8850653
+  },
+  {
+    "name": "Gyldenintie",
+    "stationId": "054",
+    "lat": 60.159644,
+    "lon": 24.877286
+  },
+  {
+    "name": "Puistokaari",
+    "stationId": "055",
+    "lat": 60.157875,
+    "lon": 24.86202
+  },
+  {
+    "name": "Luoteisväylä",
+    "stationId": "056",
+    "lat": 60.1654485,
+    "lon": 24.8601992
+  },
+  {
+    "name": "Lauttasaaren ostoskeskus",
+    "stationId": "057",
+    "lat": 60.1603306,
+    "lon": 24.8815441
+  },
+  {
+    "name": "Lauttasaarensilta",
+    "stationId": "058",
+    "lat": 60.161967,
+    "lon": 24.891667
+  },
+  {
+    "name": "Salmisaarenranta",
+    "stationId": "059",
+    "lat": 60.16478138043,
+    "lon": 24.90096080349
+  },
+  {
+    "name": "Lemmikkitie",
+    "stationId": "3ba9fc15-bdb0-4798-9903-f9b4d6e69290",
+    "lat": 60.304383,
+    "lon": 25.033609
+  },
+  {
+    "name": "Jumbo P1-taso",
+    "stationId": "d415db2b-5902-462d-8097-29e548a0edc7",
+    "lat": 60.29024,
+    "lon": 24.964363
+  },
+  {
+    "name": "Suokalliontie",
+    "stationId": "e571eaf5-8fcb-4876-8222-d6e768b8e9c8",
+    "lat": 60.306742,
+    "lon": 24.89866
+  },
+  {
+    "name": "Rubiinipuisto",
+    "stationId": "643d3bf2-d046-4385-b642-884e5ddc9274",
+    "lat": 60.32175,
+    "lon": 24.853488
+  },
+  {
+    "name": "Kaapelitehdas",
+    "stationId": "060",
+    "lat": 60.161238,
+    "lon": 24.902912
+  },
+  {
+    "name": "Länsisatamankatu",
+    "stationId": "061",
+    "lat": 60.1589276,
+    "lon": 24.909692
+  },
+  {
+    "name": "Välimerenkatu",
+    "stationId": "062",
+    "lat": 60.159296,
+    "lon": 24.916241
+  },
+  {
+    "name": "Jätkäsaarenlaituri",
+    "stationId": "063",
+    "lat": 60.161506,
+    "lon": 24.921552
+  },
+  {
+    "name": "Tyynenmerenkatu",
+    "stationId": "064",
+    "lat": 60.156838,
+    "lon": 24.920661
+  },
+  {
+    "name": "Hernesaarenranta",
+    "stationId": "065",
+    "lat": 60.15352968178976,
+    "lon": 24.93125406706023
+  },
+  {
+    "name": "Ehrenströmintie",
+    "stationId": "066",
+    "lat": 60.155309,
+    "lon": 24.9591271
+  },
+  {
+    "name": "Vantaanpuisto",
+    "stationId": "e6a34715-bac6-4f3a-8214-33693d6a9236",
+    "lat": 60.30122,
+    "lon": 24.856554
+  },
+  {
+    "name": "Perämiehenkatu",
+    "stationId": "067",
+    "lat": 60.1600875931318,
+    "lon": 24.9340656851357
+  },
+  {
+    "name": "Albertinkatu",
+    "stationId": "068",
+    "lat": 60.1618359,
+    "lon": 24.9368179
+  },
+  {
+    "name": "Kalevankatu",
+    "stationId": "069",
+    "lat": 60.16568,
+    "lon": 24.931422
+  },
+  {
+    "name": "Sauvatie",
+    "stationId": "70397d13-0b24-4743-800d-c553c62dee3c",
+    "lat": 60.320688,
+    "lon": 25.072953
+  },
+  {
+    "name": "Tuupakankuja",
+    "stationId": "efdb7485-28f9-4a76-a471-8c130283026a",
+    "lat": 60.2963,
+    "lon": 24.891487
+  },
+  {
+    "name": "Hernetie",
+    "stationId": "09d09a4d-ac20-406f-aa5c-2c35335e8aa3",
+    "lat": 60.29574,
+    "lon": 25.033618
+  },
+  {
+    "name": "Sammonpuistikko",
+    "stationId": "070",
+    "lat": 60.1731473,
+    "lon": 24.9224112
+  },
+  {
+    "name": "Hietaniemenkatu",
+    "stationId": "071",
+    "lat": 60.173078,
+    "lon": 24.909043
+  },
+  {
+    "name": "Eteläinen Hesperiankatu",
+    "stationId": "072",
+    "lat": 60.17558787407832,
+    "lon": 24.915662751685453
+  },
+  {
+    "name": "Kesäkatu",
+    "stationId": "073",
+    "lat": 60.1792967,
+    "lon": 24.9132504
+  },
+  {
+    "name": "Rajasaarentie",
+    "stationId": "074",
+    "lat": 60.183137,
+    "lon": 24.911127
+  },
+  {
+    "name": "Korjaamo",
+    "stationId": "075",
+    "lat": 60.1838677,
+    "lon": 24.9198371
+  },
+  {
+    "name": "Olympiastadion",
+    "stationId": "076",
+    "lat": 60.1845055,
+    "lon": 24.9249741
+  },
+  {
+    "name": "Nordenskiöldinaukio",
+    "stationId": "077",
+    "lat": 60.18523632967096,
+    "lon": 24.91724984112588
+  },
+  {
+    "name": "Messeniuksenkatu",
+    "stationId": "078",
+    "lat": 60.1878352,
+    "lon": 24.9180102
+  },
+  {
+    "name": "Uimastadion",
+    "stationId": "079",
+    "lat": 60.1892172,
+    "lon": 24.9292286
+  },
+  {
+    "name": "Raatetie",
+    "stationId": "634fd4cb-523c-4cec-82de-c4e83eb580f5",
+    "lat": 60.306155,
+    "lon": 25.028634
+  },
+  {
+    "name": "Malminiitynpolku",
+    "stationId": "bacd3526-5f02-42ac-9c09-194a3ec310ca",
+    "lat": 60.313265,
+    "lon": 25.035116
+  },
+  {
+    "name": "Jäähalli",
+    "stationId": "080",
+    "lat": 60.1894025,
+    "lon": 24.9205978
+  },
+  {
+    "name": "Stenbäckinkatu",
+    "stationId": "081",
+    "lat": 60.1883091,
+    "lon": 24.9123717
+  },
+  {
+    "name": "Töölöntulli",
+    "stationId": "082",
+    "lat": 60.19095693226663,
+    "lon": 24.912827135427882
+  },
+  {
+    "name": "Metsänhenki",
+    "stationId": "77a17d8b-b89f-4e4e-a820-95ffc9c63a42",
+    "lat": 60.324463,
+    "lon": 25.040961
+  },
+  {
+    "name": "Meilahden sairaala",
+    "stationId": "083",
+    "lat": 60.1902195,
+    "lon": 24.9083351
+  },
+  {
+    "name": "Paciuksenkatu",
+    "stationId": "084",
+    "lat": 60.191133,
+    "lon": 24.899984
+  },
+  {
+    "name": "Jalavatie",
+    "stationId": "085",
+    "lat": 60.1934696,
+    "lon": 24.905889
+  },
+  {
+    "name": "Kuusitie",
+    "stationId": "086",
+    "lat": 60.19526,
+    "lon": 24.900731
+  },
+  {
+    "name": "Kustaankatu",
+    "stationId": "087",
+    "lat": 60.1882752174,
+    "lon": 24.95597593163
+  },
+  {
+    "name": "Kiskontie",
+    "stationId": "088",
+    "lat": 60.1989402,
+    "lon": 24.9012997
+  },
+  {
+    "name": "Tilkanvierto",
+    "stationId": "089",
+    "lat": 60.1975329,
+    "lon": 24.899261
+  },
+  {
+    "name": "Jumbo P3-taso",
+    "stationId": "b7cdf04b-ed74-4a7c-b0e7-e48c456af18c",
+    "lat": 60.290927,
+    "lon": 24.962398
+  },
+  {
+    "name": "Pyhtäänkorventie",
+    "stationId": "0302c772-1ca4-4d6e-a45c-52e8dc278ca1",
+    "lat": 60.299896,
+    "lon": 24.973481
+  },
+  {
+    "name": "Paciuksenkaari",
+    "stationId": "090",
+    "lat": 60.1944475,
+    "lon": 24.8911179
+  },
+  {
+    "name": "Seurasaari",
+    "stationId": "091",
+    "lat": 60.188399,
+    "lon": 24.8847362
+  },
+  {
+    "name": "Saunalahdentie",
+    "stationId": "092",
+    "lat": 60.1926305828,
+    "lon": 24.87922144235
+  },
+  {
+    "name": "Torpanranta",
+    "stationId": "093",
+    "lat": 60.1948358,
+    "lon": 24.8713963
+  },
+  {
+    "name": "Tammistontie",
+    "stationId": "9db9b4d1-05b9-44a8-be31-0985562fca9f",
+    "lat": 60.276218,
+    "lon": 24.970321
+  },
+  {
+    "name": "Laajalahden aukio",
+    "stationId": "094",
+    "lat": 60.19793090756802,
+    "lon": 24.876221716500662
+  },
+  {
+    "name": "Munkkiniemen aukio",
+    "stationId": "095",
+    "lat": 60.1967196,
+    "lon": 24.8840917
+  },
+  {
+    "name": "Huopalahdentie",
+    "stationId": "096",
+    "lat": 60.1996653,
+    "lon": 24.8836209
+  },
+  {
+    "name": "Tikkurilan asema",
+    "stationId": "1d9416f5-60de-4768-8009-1b1a20d5f184",
+    "lat": 60.294775,
+    "lon": 25.044587
+  },
+  {
+    "name": "Ulvilantie",
+    "stationId": "098",
+    "lat": 60.2038803,
+    "lon": 24.8708833
+  },
+  {
+    "name": "Muusantori",
+    "stationId": "099",
+    "lat": 60.2071193,
+    "lon": 24.8559544
+  },
+  {
+    "name": "Kartanonkosken liikuntapuisto",
+    "stationId": "6ac6da39-0f6c-4f41-81f7-e8fa6f230418",
+    "lat": 60.27952,
+    "lon": 24.956351
+  },
+  {
+    "name": "Tasetie",
+    "stationId": "a92430e1-95a1-4686-a557-68c5f9371798",
+    "lat": 60.289963,
+    "lon": 24.968076
+  },
+  {
+    "name": "Kiskanpuisto",
+    "stationId": "9bc19764-bc2c-492f-a84a-dd93468ffead",
+    "lat": 60.279126,
+    "lon": 24.840024
+  },
+  {
+    "name": "Liesikuja",
+    "stationId": "1d636fc7-087c-4f53-9315-6e6b40a02466",
+    "lat": 60.262773,
+    "lon": 24.854638
+  },
+  {
+    "name": "Kukinkuja",
+    "stationId": "2ddfa4ec-6408-431f-b6d3-f3e6f18ce45f",
+    "lat": 60.279095,
+    "lon": 24.861178
+  },
+  {
+    "name": "Koivutori",
+    "stationId": "9ed67ef1-188a-4020-b0ab-cf4d0113d5ee",
+    "lat": 60.323628,
+    "lon": 25.061809
+  },
+  {
+    "name": "Teletie",
+    "stationId": "cf170ba8-98d3-4cd1-abac-a0b2fffe90fd",
+    "lat": 60.313387,
+    "lon": 24.968139
+  },
+  {
+    "name": "Vuorimestarintori",
+    "stationId": "dcb05f0f-6634-41be-807b-66f3d0f82a2d",
+    "lat": 60.263919,
+    "lon": 24.871641
+  },
+  {
+    "name": "Rekolan asema",
+    "stationId": "376af8ae-3bff-4f4b-84f8-3edf199d3a9c",
+    "lat": 60.333005,
+    "lon": 25.067436
+  },
+  {
+    "name": "Vantaanlaaksontie",
+    "stationId": "d2b22dde-297e-4f09-badb-5d7f6241bd84",
+    "lat": 60.283192,
+    "lon": 24.872494
+  },
+  {
+    "name": "Hiekkaharjun koulu",
+    "stationId": "f3d4fc14-d048-4069-bff4-b2f0391471c6",
+    "lat": 60.307504,
+    "lon": 25.035939
+  },
+  {
+    "name": "Kuusijärvi",
+    "stationId": "9aadc3d5-e0b1-4b6e-8bb1-d49062f8c527",
+    "lat": 60.314238,
+    "lon": 25.112538
+  },
+  {
+    "name": "Kaivokselantie",
+    "stationId": "f4ded82d-e3a5-46fe-b8d4-cfcd7cc0c25b",
+    "lat": 60.268743,
+    "lon": 24.872483
+  },
+  {
+    "name": "Osumakuja",
+    "stationId": "0246f146-6cd8-44d5-8565-0caaab7869d5",
+    "lat": 60.300509,
+    "lon": 24.932671
+  },
+  {
+    "name": "Tammiston kauppatie",
+    "stationId": "5755e70a-d83c-48c5-ba9a-08f8e4869914",
+    "lat": 60.282496,
+    "lon": 24.974475
+  },
+  {
+    "name": "Sepänpiha",
+    "stationId": "cc42b4d1-138b-4c80-af13-8ac6faee95ea",
+    "lat": 60.285346,
+    "lon": 25.044907
+  },
+  {
+    "name": "Puutarhatie",
+    "stationId": "42fdc17f-7d83-4161-8e36-151dff2a5a3a",
+    "lat": 60.29216,
+    "lon": 25.006456
+  },
+  {
+    "name": "Heureka",
+    "stationId": "6dd5413c-8ea0-4c6c-8b61-7ebbc1b0b7d6",
+    "lat": 60.288622,
+    "lon": 25.041903
+  },
+  {
+    "name": "Antaksentie",
+    "stationId": "86a91742-9483-4a6a-b3fc-9eeaa8ce8df0",
+    "lat": 60.293519,
+    "lon": 24.94836
+  },
+  {
+    "name": "Nuijatie",
+    "stationId": "a1f8ab05-357d-47d0-bbb7-9ca7337d4d9a",
+    "lat": 60.259273,
+    "lon": 24.830079
+  },
+  {
+    "name": "Koiruohonpuisto",
+    "stationId": "33a384ec-58b6-436e-8091-64b52e53f9e1",
+    "lat": 60.293603,
+    "lon": 25.025384
+  },
+  {
+    "name": "Silvola",
+    "stationId": "338a3275-7c6c-4ceb-9758-56793d6b845b",
+    "lat": 60.265119,
+    "lon": 24.881599
+  },
+  {
+    "name": "Martinkyläntie",
+    "stationId": "fa438b3b-4c3a-43e6-b0cc-cde55abb9d97",
+    "lat": 60.277978,
+    "lon": 24.821893
+  },
+  {
+    "name": "Aurinkokivenpiha",
+    "stationId": "da2baaae-0088-43c2-bc39-6af81f5971c9",
+    "lat": 60.318755,
+    "lon": 24.849931
+  },
+  {
+    "name": "Martinlaakson uimahalli",
+    "stationId": "18f92d2d-cd72-4d2e-a31d-69e61024671a",
+    "lat": 60.27584,
+    "lon": 24.845512
+  },
+  {
+    "name": "Orionintie",
+    "stationId": "900",
+    "lat": 60.180118,
+    "lon": 24.771826
+  },
+  {
+    "name": "Keimolantie",
+    "stationId": "8f9fa3a0-0c15-4dc6-800e-76fb4eb23081",
+    "lat": 60.322995,
+    "lon": 24.840774
+  },
+  {
+    "name": "Outotec",
+    "stationId": "901",
+    "lat": 60.163412,
+    "lon": 24.742219
+  },
+  {
+    "name": "Derby Business Park",
+    "stationId": "902",
+    "lat": 60.209017,
+    "lon": 24.835356
+  },
+  {
+    "name": "Lincolninaukio",
+    "stationId": "66e94a76-5790-45c4-aa25-83f8af8d0c5f",
+    "lat": 60.318471,
+    "lon": 24.831207
+  }
+]
