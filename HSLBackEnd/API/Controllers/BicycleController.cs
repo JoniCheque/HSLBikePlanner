@@ -18,12 +18,6 @@ namespace API.Controllers
             _bicycleDataEntryService = bicycleDataEntryService;
         }
 
-        [HttpGet(nameof(GetBicycle))]
-        public BicycleDataEntry GetBicycle()
-        {
-            return _bicycleDataEntryService.GetFirst();
-        }
-
         [HttpGet(nameof(GetCount))]
         public int GetCount()
         {
@@ -54,28 +48,28 @@ namespace API.Controllers
             return _bicycleDataEntryService.GetShortestDurations(amountOfEntries);
         }
 
-        //[HttpGet(nameof(GetLongestDistancesByStationId))]
-        //public IEnumerable<BicycleDataEntry> GetLongestDistancesByStationId(string stationId, int amountOfEntries)
-        //{
-        //    return _bicycleDataEntryService.GetLongestDistancesByStationId(stationId, amountOfEntries);
-        //}
+        [HttpGet(nameof(GetLongestDistancesByStationId))]
+        public IEnumerable<BicycleDataEntry> GetLongestDistancesByStationId(string stationId, int amountOfEntries)
+        {
+            return _bicycleDataEntryService.GetLongestDistancesByStationId(stationId, amountOfEntries);
+        }
 
-        //[HttpGet(nameof(GetShortestDistancesByStationId))]
-        //public IEnumerable<BicycleDataEntry> GetShortestDistancesByStationId(string stationId, int amountOfEntries)
-        //{
-        //    return _bicycleDataEntryService.GetShortestDistancesByStationId(stationId, amountOfEntries);
-        //}
+        [HttpGet(nameof(GetShortestDistancesByStationId))]
+        public IEnumerable<BicycleDataEntry> GetShortestDistancesByStationId(string stationId, int amountOfEntries)
+        {
+            return _bicycleDataEntryService.GetShortestDistancesByStationId(stationId, amountOfEntries);
+        }
 
-        //[HttpGet(nameof(GetLongestDurationsByStationId))]
-        //public IEnumerable<BicycleDataEntry> GetLongestDurationsByStationId(string stationId, int amountOfEntries)
-        //{
-        //    return _bicycleDataEntryService.GetLongestDurationsByStationId(stationId, amountOfEntries);
-        //}
+        [HttpGet(nameof(GetLongestDurationsByStationId))]
+        public IEnumerable<BicycleDataEntry> GetLongestDurationsByStationId(string stationId, int amountOfEntries)
+        {
+            return _bicycleDataEntryService.GetLongestDurationsByStationId(stationId, amountOfEntries);
+        }
 
-        //[HttpGet(nameof(GetShortestDurationsByStationId))]
-        //public IEnumerable<BicycleDataEntry> GetShortestDurationsByStationId(string stationId, int amountOfEntries)
-        //{
-        //    return _bicycleDataEntryService.GetShortestDurationsByStationId(stationId, amountOfEntries);
-        //}
+        [HttpGet(nameof(GetShortestDurationsByStationId))]
+        public IEnumerable<BicycleDataEntry> GetShortestDurationsByStationId(string stationId, int amountOfEntries)
+        {
+            return _bicycleDataEntryService.GetShortestDurationsByStationId(stationId, amountOfEntries);
+        }
     }
 }
