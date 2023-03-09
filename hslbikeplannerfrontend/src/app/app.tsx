@@ -18,12 +18,10 @@ import Favourite from './favourite/favourite';
 export function App() {
   return (
     <>
-      <Container fluid={"lg"}>
-          <NxWelcome title="HSL Bike Route Planner" />
-          <Routeplanning />
-          <hr />
-          <Row className='mb-5'>
-            <Col lg={8} className='mb-5'>
+      <Container fluid>
+          <NxWelcome title="to HSL Bike Route Planner" />
+          <Row>
+            <Col lg={8}>
               <Mapcomponent></Mapcomponent>
             </Col>
             <Col lg={4}>
