@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Repository.Contexts;
 
@@ -10,9 +11,11 @@ using Repository.Contexts;
 namespace Repository.Migrations
 {
     [DbContext(typeof(BicycleDataContext))]
-    partial class BicycleDataContextModelSnapshot : ModelSnapshot
+    [Migration("20230307221630_AddStation")]
+    partial class AddStation
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "7.0.3");
@@ -37,7 +40,7 @@ namespace Repository.Migrations
                     b.Property<int>("Distance")
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("Duration")
+                    b.Property<uint>("Duration")
                         .HasColumnType("INTEGER");
 
                     b.Property<DateTime>("Return")
@@ -53,7 +56,7 @@ namespace Repository.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("BicycleDataEntries", (string)null);
+                    b.ToTable("BicycleDataEntries");
                 });
 
             modelBuilder.Entity("Repository.Entities.Station", b =>
@@ -68,31 +71,6 @@ namespace Repository.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.HasKey("StationId");
-
-                    b.ToTable("Stations", (string)null);
-                });
-
-            modelBuilder.Entity("Repository.Entities.Station", b =>
-                {
-                    b.Property<int>("StationId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
-
-                    b.Property<decimal>("Lat")
-                        .HasColumnType("TEXT");
-
-                    b.Property<decimal>("Lon")
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("StationStrId")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
