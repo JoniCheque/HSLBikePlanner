@@ -37,7 +37,7 @@ namespace Repository.Migrations
                     b.Property<int>("Distance")
                         .HasColumnType("INTEGER");
 
-                    b.Property<uint>("Duration")
+                    b.Property<int>("Duration")
                         .HasColumnType("INTEGER");
 
                     b.Property<DateTime>("Return")
@@ -74,6 +74,31 @@ namespace Repository.Migrations
                     b.HasKey("StationId");
 
                     b.ToTable("Stations", (string)null);
+                });
+
+            modelBuilder.Entity("Repository.Entities.Station", b =>
+                {
+                    b.Property<int>("StationId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<decimal>("Lat")
+                        .HasColumnType("TEXT");
+
+                    b.Property<decimal>("Lon")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("StationStrId")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("StationId");
+
+                    b.ToTable("Stations");
                 });
 #pragma warning restore 612, 618
         }

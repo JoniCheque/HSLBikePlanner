@@ -10,6 +10,6 @@
         public string ReturnStationId { get; set; }
         public string ReturnStationName { get; set; }
         public int Distance { get; set; }
-        public uint Duration { get; set; }
+        public int Duration { get; set; }
     }
 }

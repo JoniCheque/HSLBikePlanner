@@ -11,8 +11,8 @@ using Repository.Contexts;
 namespace Repository.Migrations
 {
     [DbContext(typeof(BicycleDataContext))]
-    [Migration("20230306203126_ChangeDistanceToDecimal")]
-    partial class ChangeDistanceToDecimal
+    [Migration("20230309174340_SetUpMigrations")]
+    partial class SetUpMigrations
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,10 +37,10 @@ namespace Repository.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<decimal>("Distance")
-                        .HasColumnType("TEXT");
+                    b.Property<int>("Distance")
+                        .HasColumnType("INTEGER");
 
-                    b.Property<uint>("Duration")
+                    b.Property<int>("Duration")
                         .HasColumnType("INTEGER");
 
                     b.Property<DateTime>("Return")
@@ -57,6 +57,31 @@ namespace Repository.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("BicycleDataEntries");
+                });
+
+            modelBuilder.Entity("Repository.Entities.Station", b =>
+                {
+                    b.Property<int>("StationId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<decimal>("Lat")
+                        .HasColumnType("TEXT");
+
+                    b.Property<decimal>("Lon")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("StationStrId")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("StationId");
+
+                    b.ToTable("Stations");
                 });
 #pragma warning restore 612, 618
         }
