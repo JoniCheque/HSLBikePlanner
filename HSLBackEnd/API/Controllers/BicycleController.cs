@@ -11,6 +11,7 @@ namespace API.Controllers
     {
         private readonly ILogger<BicycleController> _logger;
         private readonly IBicycleDataEntryService _bicycleDataEntryService;
+        private const int defaultQueryTreshold = 1;
 
         public BicycleController(ILogger<BicycleController> logger, IBicycleDataEntryService bicycleDataEntryService)
         {
@@ -49,25 +50,25 @@ namespace API.Controllers
         }
 
         [HttpGet(nameof(GetLongestDistancesByStationId))]
-        public IEnumerable<BicycleDataEntry> GetLongestDistancesByStationId(string stationId, int amountOfEntries)
+        public IEnumerable<BicycleDataEntry> GetLongestDistancesByStationId(string stationId, int amountOfEntries = defaultQueryTreshold)
         {
             return _bicycleDataEntryService.GetLongestDistancesByStationId(stationId, amountOfEntries);
         }
 
         [HttpGet(nameof(GetShortestDistancesByStationId))]
-        public IEnumerable<BicycleDataEntry> GetShortestDistancesByStationId(string stationId, int amountOfEntries)
+        public IEnumerable<BicycleDataEntry> GetShortestDistancesByStationId(string stationId, int amountOfEntries = defaultQueryTreshold)
         {
             return _bicycleDataEntryService.GetShortestDistancesByStationId(stationId, amountOfEntries);
         }
 
         [HttpGet(nameof(GetLongestDurationsByStationId))]
-        public IEnumerable<BicycleDataEntry> GetLongestDurationsByStationId(string stationId, int amountOfEntries)
+        public IEnumerable<BicycleDataEntry> GetLongestDurationsByStationId(string stationId, int amountOfEntries = defaultQueryTreshold)
         {
             return _bicycleDataEntryService.GetLongestDurationsByStationId(stationId, amountOfEntries);
         }
 
         [HttpGet(nameof(GetShortestDurationsByStationId))]
-        public IEnumerable<BicycleDataEntry> GetShortestDurationsByStationId(string stationId, int amountOfEntries)
+        public IEnumerable<BicycleDataEntry> GetShortestDurationsByStationId(string stationId, int amountOfEntries = defaultQueryTreshold)
         {
             return _bicycleDataEntryService.GetShortestDurationsByStationId(stationId, amountOfEntries);
         }

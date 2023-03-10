@@ -14,7 +14,8 @@ namespace Repository.Contexts
         {
             var folder = Environment.SpecialFolder.Desktop;
             var path = Environment.GetFolderPath(folder);
-            DbPath = Path.Join(path, "bicycleDataEntries.db");
+            //DbPath = Path.Join(path, "bicycleDataEntries.db");
+            DbPath = Path.Join(path, "bicycleDataEntriesSmall.db");
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
